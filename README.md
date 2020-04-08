@@ -16,6 +16,7 @@
 
 按照定好的规则，最近的安排是
 
-- easy
-    - array
-    
+- [ ] easy
+    - [ ] array
+        - [x] two-sum
+        - [ ] median-of-two-sorted-arrays    
