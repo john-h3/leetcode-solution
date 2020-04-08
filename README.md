@@ -19,4 +19,4 @@
 - [ ] easy
     - [ ] array
         - [x] two-sum
-        - [ ] remove-duplicates-from-sorted-array
+        - [x] remove-duplicates-from-sorted-array
