@@ -19,4 +19,4 @@
 - [ ] easy
     - [ ] array
         - [x] two-sum
-        - [ ] median-of-two-sorted-arrays    
+        - [ ] remove-duplicates-from-sorted-array
