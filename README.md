@@ -20,3 +20,4 @@
     - [ ] array
         - [x] two-sum
         - [x] remove-duplicates-from-sorted-array
+        - [x] remove-element
