@@ -27,5 +27,5 @@
         - [x] 合并两个有序数组 `merge-sorted-array`
         - [x] 杨辉三角 `pascals-triangle`
         - [x] 杨辉三角 II `pascals-triangle-ii`
-        - [ ] 买卖股票的最佳时机 `best-time-to-buy-and-sell-stock`
-        - [ ] 买卖股票的最佳时机 II `best-time-to-buy-and-sell-stock-ii`
+        - [x] 买卖股票的最佳时机 `best-time-to-buy-and-sell-stock`
+        - [x] 买卖股票的最佳时机 II `best-time-to-buy-and-sell-stock-ii`
