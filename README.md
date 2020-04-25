@@ -16,9 +16,14 @@
 
 按照定好的规则，最近的安排是
 
-- [ ] easy
-    - [ ] array
-        - [x] two-sum
-        - [x] remove-duplicates-from-sorted-array
-        - [x] remove-element
-        - [x] search-insert-position
+- [ ] 简单 `easy`
+    - [ ] 数组 `array`
+        - [x] 两数之和 `two-sum`
+        - [x] 删除排序数组中的重复项 `remove-duplicates-from-sorted-array`
+        - [x] 移除元素 `remove-element`
+        - [x] 搜索插入位置 `search-insert-position`
+        - [x] 最大子序和 `maximum-subarray`
+        - [x] 加一 `plus-one`
+        - [x] 合并两个有序数组 `merge-sorted-array`
+        - [x] 杨辉三角 `pascals-triangle`
+        - [x] 杨辉三角 II `pascals-triangle-ii`
