@@ -31,7 +31,7 @@
         - [x] 买卖股票的最佳时机 II `best-time-to-buy-and-sell-stock-ii`
         - [x] 两数之和 II - 输入有序数组 `two-sum-ii-input-array-is-sorted`
         - [x] 多数元素 `majority-element`
-        - [ ] 旋转数组 `rotate-array`
+        - [x] 旋转数组 `rotate-array`
         - [ ] 存在重复元素 `contains-duplicate`
         - [ ] 存在重复元素 II `contains-duplicate-ii`
         - [ ] 缺失数字 `missing-number`
