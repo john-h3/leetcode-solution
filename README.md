@@ -32,8 +32,17 @@
         - [x] 两数之和 II - 输入有序数组 `two-sum-ii-input-array-is-sorted`
         - [x] 多数元素 `majority-element`
         - [x] 旋转数组 `rotate-array`
-        - [ ] 存在重复元素 `contains-duplicate`
-        - [ ] 存在重复元素 II `contains-duplicate-ii`
-        - [ ] 缺失数字 `missing-number`
-        - [ ] 移动零 `move-zeroes`
-        - [ ] 第三大的数 `third-maximum-number`
+        - [x] 存在重复元素 `contains-duplicate`
+        - [x] 存在重复元素 II `contains-duplicate-ii`
+        - [x] 缺失数字 `missing-number`
+        - [x] 移动零 `move-zeroes`
+        - [x] 第三大的数 `third-maximum-number`
+        - [ ] 找到所有数组中消失的数字 `find-all-numbers-disappeared-in-an-array`
+        - [ ] 最大连续1的个数 `max-consecutive-ones`
+        - [ ] 斐波那契数 `fibonacci-number`
+        - [ ] 数组中的K-diff数对 `k-diff-pairs-in-an-array`
+        - [ ] 数组拆分 I `array-partition-i`
+        - [ ] 重塑矩阵 `reshape-the-matrix`
+        - [ ] 最短无序连续子数组 `shortest-unsorted-continuous-subarray`
+        - [ ] 种花问题 `can-place-flowers`
+        - [ ] 三个数的最大乘积 `maximum-product-of-three-numbers`
