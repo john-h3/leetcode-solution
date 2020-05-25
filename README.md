@@ -41,7 +41,7 @@
         - [x] 最大连续1的个数 `max-consecutive-ones`
         - [x] 斐波那契数 `fibonacci-number`
         - [x] 数组中的K-diff数对 `k-diff-pairs-in-an-array`
-        - [ ] 数组拆分 I `array-partition-i`
+        - [x] 数组拆分 I `array-partition-i`
         - [ ] 重塑矩阵 `reshape-the-matrix`
         - [ ] 最短无序连续子数组 `shortest-unsorted-continuous-subarray`
         - [ ] 种花问题 `can-place-flowers`
