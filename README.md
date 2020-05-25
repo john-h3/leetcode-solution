@@ -46,3 +46,13 @@
         - [x] 最短无序连续子数组 `shortest-unsorted-continuous-subarray`
         - [x] 种花问题 `can-place-flowers`
         - [x] 三个数的最大乘积 `maximum-product-of-three-numbers`
+        - [ ] 子数组最大平均数 I `maximum-average-subarray-i`
+        - [ ] 图片平滑器 `image-smoother`
+        - [ ] 非递减数列 `non-decreasing-array`
+        - [ ] 最长连续递增序列 `longest-continuous-increasing-subsequence`
+        - [ ] 数组的度 `degree-of-an-array`
+        - [ ] 1比特与2比特字符 `1-bit-and-2-bit-characters`
+        - [ ] 寻找数组的中心索引 `find-pivot-index`
+        - [ ] 使用最小花费爬楼梯 `min-cost-climbing-stairs`
+        - [ ] 至少是其他数字两倍的最大数 `largest-number-at-least-twice-of-others`
+        - [ ] 托普利茨矩阵 `toeplitz-matrix`
