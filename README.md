@@ -45,4 +45,4 @@
         - [x] 重塑矩阵 `reshape-the-matrix`
         - [x] 最短无序连续子数组 `shortest-unsorted-continuous-subarray`
         - [x] 种花问题 `can-place-flowers`
-        - [ ] 三个数的最大乘积 `maximum-product-of-three-numbers`
+        - [x] 三个数的最大乘积 `maximum-product-of-three-numbers`
