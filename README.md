@@ -43,6 +43,6 @@
         - [x] 数组中的K-diff数对 `k-diff-pairs-in-an-array`
         - [x] 数组拆分 I `array-partition-i`
         - [x] 重塑矩阵 `reshape-the-matrix`
-        - [ ] 最短无序连续子数组 `shortest-unsorted-continuous-subarray`
+        - [x] 最短无序连续子数组 `shortest-unsorted-continuous-subarray`
         - [ ] 种花问题 `can-place-flowers`
         - [ ] 三个数的最大乘积 `maximum-product-of-three-numbers`
