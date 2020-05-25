@@ -38,7 +38,7 @@
         - [x] 移动零 `move-zeroes`
         - [x] 第三大的数 `third-maximum-number`
         - [x] 找到所有数组中消失的数字 `find-all-numbers-disappeared-in-an-array`
-        - [ ] 最大连续1的个数 `max-consecutive-ones`
+        - [x] 最大连续1的个数 `max-consecutive-ones`
         - [ ] 斐波那契数 `fibonacci-number`
         - [ ] 数组中的K-diff数对 `k-diff-pairs-in-an-array`
         - [ ] 数组拆分 I `array-partition-i`
