@@ -46,13 +46,23 @@
         - [x] 最短无序连续子数组 `shortest-unsorted-continuous-subarray`
         - [x] 种花问题 `can-place-flowers`
         - [x] 三个数的最大乘积 `maximum-product-of-three-numbers`
-        - [ ] 子数组最大平均数 I `maximum-average-subarray-i`
-        - [ ] 图片平滑器 `image-smoother`
-        - [ ] 非递减数列 `non-decreasing-array`
-        - [ ] 最长连续递增序列 `longest-continuous-increasing-subsequence`
-        - [ ] 数组的度 `degree-of-an-array`
-        - [ ] 1比特与2比特字符 `1-bit-and-2-bit-characters`
-        - [ ] 寻找数组的中心索引 `find-pivot-index`
-        - [ ] 使用最小花费爬楼梯 `min-cost-climbing-stairs`
-        - [ ] 至少是其他数字两倍的最大数 `largest-number-at-least-twice-of-others`
-        - [ ] 托普利茨矩阵 `toeplitz-matrix`
+        - [x] 子数组最大平均数 I `maximum-average-subarray-i`
+        - [x] 图片平滑器 `image-smoother`
+        - [x] 非递减数列 `non-decreasing-array`
+        - [x] 最长连续递增序列 `longest-continuous-increasing-subsequence`
+        - [x] 数组的度 `degree-of-an-array`
+        - [x] 1比特与2比特字符 `1-bit-and-2-bit-characters`
+        - [x] 寻找数组的中心索引 `find-pivot-index`
+        - [x] 使用最小花费爬楼梯 `min-cost-climbing-stairs`
+        - [x] 至少是其他数字两倍的最大数 `largest-number-at-least-twice-of-others`
+        - [x] 托普利茨矩阵 `toeplitz-matrix`
+        - [x] 较大分组的位置 `positions-of-large-groups`
+        - [x] 翻转图像 `flipping-an-image`
+        - [ ] 矩阵中的幻方 `magic-squares-in-grid`
+        - [ ] 到最近的人的最大距离 `maximize-distance-to-closest-person`
+        - [ ] 转置矩阵 `transpose-matrix`
+        - [ ] 公平的糖果交换 `fair-candy-swap`
+        - [ ] 单调数列 `monotonic-array`
+        - [ ] 按奇偶排序数组 `sort-array-by-parity`
+        - [ ] 卡牌分组 `x-of-a-kind-in-a-deck-of-cards`
+        - [ ] 按奇偶排序数组 II `sort-array-by-parity-ii`
