@@ -58,11 +58,21 @@
         - [x] 托普利茨矩阵 `toeplitz-matrix`
         - [x] 较大分组的位置 `positions-of-large-groups`
         - [x] 翻转图像 `flipping-an-image`
-        - [ ] 矩阵中的幻方 `magic-squares-in-grid`
-        - [ ] 到最近的人的最大距离 `maximize-distance-to-closest-person`
-        - [ ] 转置矩阵 `transpose-matrix`
-        - [ ] 公平的糖果交换 `fair-candy-swap`
-        - [ ] 单调数列 `monotonic-array`
-        - [ ] 按奇偶排序数组 `sort-array-by-parity`
-        - [ ] 卡牌分组 `x-of-a-kind-in-a-deck-of-cards`
-        - [ ] 按奇偶排序数组 II `sort-array-by-parity-ii`
+        - [x] 矩阵中的幻方 `magic-squares-in-grid`
+        - [x] 到最近的人的最大距离 `maximize-distance-to-closest-person`
+        - [x] 转置矩阵 `transpose-matrix`
+        - [x] 公平的糖果交换 `fair-candy-swap`
+        - [x] 单调数列 `monotonic-array`
+        - [x] 按奇偶排序数组 `sort-array-by-parity`
+        - [x] 卡牌分组 `x-of-a-kind-in-a-deck-of-cards`
+        - [x] 按奇偶排序数组 II `sort-array-by-parity-ii`
+        - [ ] 有效的山脉数组 `valid-mountain-array`
+        - [ ] 有序数组的平方 `squares-of-a-sorted-array`
+        - [ ] 查询后的偶数和 `sum-of-even-numbers-after-queries`
+        - [ ] 数组形式的整数加法 `add-to-array-form-of-integer`
+        - [ ] 可以被一步捕获的棋子数 `available-captures-for-rook`
+        - [ ] 查找常用字符 `find-common-characters`
+        - [ ] 总持续时间可被 60 整除的歌曲 `pairs-of-songs-with-total-durations-divisible-by-60`
+        - [ ] 将数组分成和相等的三个部分 `partition-array-into-three-parts-with-equal-sum`
+        - [ ] 可被 5 整除的二进制前缀 `binary-prefix-divisible-by-5`
+        - [ ] 高度检查器 `height-checker`
