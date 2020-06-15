@@ -66,13 +66,25 @@
         - [x] 按奇偶排序数组 `sort-array-by-parity`
         - [x] 卡牌分组 `x-of-a-kind-in-a-deck-of-cards`
         - [x] 按奇偶排序数组 II `sort-array-by-parity-ii`
-        - [ ] 有效的山脉数组 `valid-mountain-array`
-        - [ ] 有序数组的平方 `squares-of-a-sorted-array`
-        - [ ] 查询后的偶数和 `sum-of-even-numbers-after-queries`
-        - [ ] 数组形式的整数加法 `add-to-array-form-of-integer`
-        - [ ] 可以被一步捕获的棋子数 `available-captures-for-rook`
-        - [ ] 查找常用字符 `find-common-characters`
-        - [ ] 总持续时间可被 60 整除的歌曲 `pairs-of-songs-with-total-durations-divisible-by-60`
-        - [ ] 将数组分成和相等的三个部分 `partition-array-into-three-parts-with-equal-sum`
-        - [ ] 可被 5 整除的二进制前缀 `binary-prefix-divisible-by-5`
-        - [ ] 高度检查器 `height-checker`
+        - [x] 有效的山脉数组 `valid-mountain-array`
+        - [x] 有序数组的平方 `squares-of-a-sorted-array`
+        - [x] 查询后的偶数和 `sum-of-even-numbers-after-queries`
+        - [x] 数组形式的整数加法 `add-to-array-form-of-integer`
+        - [x] 可以被一步捕获的棋子数 `available-captures-for-rook`
+        - [x] 查找常用字符 `find-common-characters`
+        - [x] 总持续时间可被 60 整除的歌曲 `pairs-of-songs-with-total-durations-divisible-by-60`
+        - [x] 将数组分成和相等的三个部分 `partition-array-into-three-parts-with-equal-sum`
+        - [x] 可被 5 整除的二进制前缀 `binary-prefix-divisible-by-5`
+        - [x] 高度检查器 `height-checker`
+        - [ ] 复写零 `duplicate-zeros`
+        - [ ] 数组的相对排序 `relative-sort-array`
+        - [ ] 等价多米诺骨牌对的数量 `number-of-equivalent-domino-pairs`
+        - [ ] 拼写单词 `find-words-that-can-be-formed-by-characters`
+        - [ ] 比较字符串最小字母出现频次 `compare-strings-by-frequency-of-the-smallest-character`
+        - [ ] 公交站间的距离 `distance-between-bus-stops`
+        - [ ] 一周中的第几天 `day-of-the-week`
+        - [ ] 最小绝对差 `minimum-absolute-difference`
+        - [ ] 玩筹码 `play-with-chips`
+        - [ ] 缀点成线 `check-if-it-is-a-straight-line`
+        - [ ] 奇数值单元格的数目 `cells-with-odd-values-in-a-matrix`
+        - [ ] 二维网格迁移 `shift-2d-grid`
