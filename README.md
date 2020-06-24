@@ -76,15 +76,66 @@
         - [x] 将数组分成和相等的三个部分 `partition-array-into-three-parts-with-equal-sum`
         - [x] 可被 5 整除的二进制前缀 `binary-prefix-divisible-by-5`
         - [x] 高度检查器 `height-checker`
-        - [ ] 复写零 `duplicate-zeros`
-        - [ ] 数组的相对排序 `relative-sort-array`
-        - [ ] 等价多米诺骨牌对的数量 `number-of-equivalent-domino-pairs`
-        - [ ] 拼写单词 `find-words-that-can-be-formed-by-characters`
-        - [ ] 比较字符串最小字母出现频次 `compare-strings-by-frequency-of-the-smallest-character`
-        - [ ] 公交站间的距离 `distance-between-bus-stops`
-        - [ ] 一周中的第几天 `day-of-the-week`
+        - [x] 复写零 `duplicate-zeros`
+        - [x] 数组的相对排序 `relative-sort-array`
+        - [x] 等价多米诺骨牌对的数量 `number-of-equivalent-domino-pairs`
+        - [x] 拼写单词 `find-words-that-can-be-formed-by-characters`
+        - [x] 比较字符串最小字母出现频次 `compare-strings-by-frequency-of-the-smallest-character`
+        - [x] 公交站间的距离 `distance-between-bus-stops`
+        - [x] 一周中的第几天 `day-of-the-week`
         - [ ] 最小绝对差 `minimum-absolute-difference`
         - [ ] 玩筹码 `play-with-chips`
         - [ ] 缀点成线 `check-if-it-is-a-straight-line`
         - [ ] 奇数值单元格的数目 `cells-with-odd-values-in-a-matrix`
         - [ ] 二维网格迁移 `shift-2d-grid`
+        - [ ] 访问所有点的最小时间 `minimum-time-visiting-all-points`
+        - [ ] 找出井字棋的获胜者 `find-winner-on-a-tic-tac-toe-game`
+        - [ ] 有序数组中出现次数超过25%的元素 `element-appearing-more-than-25-in-sorted-array`
+        - [ ] 统计位数为偶数的数字 `find-numbers-with-even-number-of-digits`
+        - [ ] 将每个元素替换为右侧最大元素 `replace-elements-with-greatest-element-on-right-side`
+        - [ ] 和为零的N个唯一整数 `find-n-unique-integers-sum-up-to-zero`
+        - [ ] 解压缩编码列表 `decompress-run-length-encoded-list`
+        - [ ] 数组序号转换 `rank-transform-of-an-array`
+        - [ ] 方阵中战斗力最弱的 K 行 `the-k-weakest-rows-in-a-matrix`
+        - [ ] 检查整数及其两倍数是否存在 `check-if-n-and-its-double-exist`
+        - [ ] 统计有序矩阵中的负数 `count-negative-numbers-in-a-sorted-matrix`
+        - [ ] 有多少小于当前数字的数字 `how-many-numbers-are-smaller-than-the-current-number`
+        - [ ] 矩阵中的幸运数 `lucky-numbers-in-a-matrix`
+        - [ ] 两个数组间的距离值 `find-the-distance-value-between-two-arrays`
+        - [ ] 按既定顺序创建目标数组 `create-target-array-in-the-given-order`
+        - [ ] 找出数组中的幸运数 `find-lucky-integer-in-an-array`
+        - [ ] 统计最大组的数目 `count-largest-group`
+        - [ ] 逐步求和得到正数的最小值 `minimum-value-to-get-positive-step-by-step-sum`
+        - [ ] 拥有最多糖果的孩子 `kids-with-the-greatest-number-of-candies`
+        - [ ] 在既定时间做作业的学生人数 `number-of-students-doing-homework-at-a-given-time`
+        - [ ] 通过翻转子数组使两个数组相等 `make-two-arrays-equal-by-reversing-sub-arrays`
+        - [ ] 数组中两元素的最大乘积 `maximum-product-of-two-elements-in-an-array`
+        - [ ] 重新排列数组 `shuffle-the-array`
+        - [ ] 商品折扣后的最终价格 `final-prices-with-a-special-discount-in-a-shop`
+        - [ ] 一维数组的动态和 `running-sum-of-1d-array`
+        - [ ] 判定字符是否唯一 `is-unique-lcci`
+        - [ ] 判定是否互为字符重排 `check-permutation-lcci`
+        - [ ] 魔术索引 `magic-index-lcci`
+        - [ ] 合并排序的数组 `sorted-merge-lcci`
+        - [ ] 珠玑妙算 `master-mind-lcci`
+        - [ ] 连续数列 `contiguous-sequence-lcci`
+        - [ ] 消失的数字 `missing-number-lcci`
+        - [ ] 主要元素 `find-majority-element-lcci`
+        - [ ] 数组中重复的数字 `shu-zu-zhong-zhong-fu-de-shu-zi-lcof`
+        - [ ] 二维数组中的查找 `er-wei-shu-zu-zhong-de-cha-zhao-lcof`
+        - [ ] 顺时针打印矩阵 `shun-shi-zhen-da-yin-ju-zhen-lcof`
+        - [ ] 在排序数组中查找数字 I `zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof`
+        - [ ] 0～n-1中缺失的数字 `que-shi-de-shu-zi-lcof`
+    - [ ] 动态规划
+        - [ ] 连续子数组的最大和 `lian-xu-zi-shu-zu-de-zui-da-he-lcof`
+        - [ ] 判断子序列 `is-subsequence`
+        - [ ] 区域和检索 - 数组不可变 `range-sum-query-immutable`
+        - [ ] 爬楼梯 `climbing-stairs`
+        - [ ] 除数博弈 `divisor-game`
+        - [ ] 使用最小花费爬楼梯 `min-cost-climbing-stairs`
+        - [ ] 三步问题 `three-steps-problem-lcci`
+        - [ ] 打家劫舍 `house-robber`
+        - [ ] 按摩师 `the-masseuse-lcci`
+        - [ ] 最大子序和 `maximum-subarray`
+        - [ ] 连续数列 `contiguous-sequence-lcci`
+        - [ ] 买卖股票的最佳时机 `best-time-to-buy-and-sell-stock`
