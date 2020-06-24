@@ -127,15 +127,15 @@
         - [ ] 在排序数组中查找数字 I `zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof`
         - [ ] 0～n-1中缺失的数字 `que-shi-de-shu-zi-lcof`
     - [ ] 动态规划 `dynamic-programming`
-        - [ ] 连续子数组的最大和 `lian-xu-zi-shu-zu-de-zui-da-he-lcof`
-        - [ ] 判断子序列 `is-subsequence`
-        - [ ] 区域和检索 - 数组不可变 `range-sum-query-immutable`
-        - [ ] 爬楼梯 `climbing-stairs`
-        - [ ] 除数博弈 `divisor-game`
-        - [ ] 使用最小花费爬楼梯 `min-cost-climbing-stairs`
-        - [ ] 三步问题 `three-steps-problem-lcci`
-        - [ ] 打家劫舍 `house-robber`
-        - [ ] 按摩师 `the-masseuse-lcci`
         - [ ] 最大子序和 `maximum-subarray`
-        - [ ] 连续数列 `contiguous-sequence-lcci`
+        - [ ] 爬楼梯 `climbing-stairs`
         - [ ] 买卖股票的最佳时机 `best-time-to-buy-and-sell-stock`
+        - [ ] 打家劫舍 `house-robber`
+        - [ ] 区域和检索 - 数组不可变 `range-sum-query-immutable`
+        - [ ] 判断子序列 `is-subsequence`
+        - [ ] 使用最小花费爬楼梯 `min-cost-climbing-stairs`
+        - [ ] 除数博弈 `divisor-game`
+        - [ ] 连续子数组的最大和 `lian-xu-zi-shu-zu-de-zui-da-he-lcof`
+        - [ ] 三步问题 `three-steps-problem-lcci`
+        - [ ] 连续数列 `contiguous-sequence-lcci`
+        - [ ] 按摩师 `the-masseuse-lcci`
