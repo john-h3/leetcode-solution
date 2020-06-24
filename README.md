@@ -126,7 +126,7 @@
         - [ ] 顺时针打印矩阵 `shun-shi-zhen-da-yin-ju-zhen-lcof`
         - [ ] 在排序数组中查找数字 I `zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof`
         - [ ] 0～n-1中缺失的数字 `que-shi-de-shu-zi-lcof`
-    - [ ] 动态规划
+    - [ ] 动态规划 `dynamic-programming`
         - [ ] 连续子数组的最大和 `lian-xu-zi-shu-zu-de-zui-da-he-lcof`
         - [ ] 判断子序列 `is-subsequence`
         - [ ] 区域和检索 - 数组不可变 `range-sum-query-immutable`
