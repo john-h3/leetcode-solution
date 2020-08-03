@@ -83,12 +83,12 @@
         - [x] 比较字符串最小字母出现频次 `compare-strings-by-frequency-of-the-smallest-character`
         - [x] 公交站间的距离 `distance-between-bus-stops`
         - [x] 一周中的第几天 `day-of-the-week`
-        - [ ] 最小绝对差 `minimum-absolute-difference`
-        - [ ] 玩筹码 `play-with-chips`
-        - [ ] 缀点成线 `check-if-it-is-a-straight-line`
-        - [ ] 奇数值单元格的数目 `cells-with-odd-values-in-a-matrix`
-        - [ ] 二维网格迁移 `shift-2d-grid`
-        - [ ] 访问所有点的最小时间 `minimum-time-visiting-all-points`
+        - [x] 最小绝对差 `minimum-absolute-difference`
+        - [x] 玩筹码 `play-with-chips`
+        - [x] 缀点成线 `check-if-it-is-a-straight-line`
+        - [x] 奇数值单元格的数目 `cells-with-odd-values-in-a-matrix`
+        - [x] 二维网格迁移 `shift-2d-grid`
+        - [x] 访问所有点的最小时间 `minimum-time-visiting-all-points`
         - [ ] 找出井字棋的获胜者 `find-winner-on-a-tic-tac-toe-game`
         - [ ] 有序数组中出现次数超过25%的元素 `element-appearing-more-than-25-in-sorted-array`
         - [ ] 统计位数为偶数的数字 `find-numbers-with-even-number-of-digits`
@@ -99,7 +99,7 @@
         - [ ] 方阵中战斗力最弱的 K 行 `the-k-weakest-rows-in-a-matrix`
         - [ ] 检查整数及其两倍数是否存在 `check-if-n-and-its-double-exist`
         - [ ] 统计有序矩阵中的负数 `count-negative-numbers-in-a-sorted-matrix`
-        - [ ] 有多少小于当前数字的数字 `how-many-numbers-are-smaller-than-the-current-number`
+        - [x] 有多少小于当前数字的数字 `how-many-numbers-are-smaller-than-the-current-number`
         - [ ] 矩阵中的幸运数 `lucky-numbers-in-a-matrix`
         - [ ] 两个数组间的距离值 `find-the-distance-value-between-two-arrays`
         - [ ] 按既定顺序创建目标数组 `create-target-array-in-the-given-order`
