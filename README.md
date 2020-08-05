@@ -89,16 +89,16 @@
         - [x] 奇数值单元格的数目 `cells-with-odd-values-in-a-matrix`
         - [x] 二维网格迁移 `shift-2d-grid`
         - [x] 访问所有点的最小时间 `minimum-time-visiting-all-points`
-        - [ ] 找出井字棋的获胜者 `find-winner-on-a-tic-tac-toe-game`
-        - [ ] 有序数组中出现次数超过25%的元素 `element-appearing-more-than-25-in-sorted-array`
-        - [ ] 统计位数为偶数的数字 `find-numbers-with-even-number-of-digits`
-        - [ ] 将每个元素替换为右侧最大元素 `replace-elements-with-greatest-element-on-right-side`
-        - [ ] 和为零的N个唯一整数 `find-n-unique-integers-sum-up-to-zero`
-        - [ ] 解压缩编码列表 `decompress-run-length-encoded-list`
-        - [ ] 数组序号转换 `rank-transform-of-an-array`
-        - [ ] 方阵中战斗力最弱的 K 行 `the-k-weakest-rows-in-a-matrix`
-        - [ ] 检查整数及其两倍数是否存在 `check-if-n-and-its-double-exist`
-        - [ ] 统计有序矩阵中的负数 `count-negative-numbers-in-a-sorted-matrix`
+        - [x] 找出井字棋的获胜者 `find-winner-on-a-tic-tac-toe-game`
+        - [x] 有序数组中出现次数超过25%的元素 `element-appearing-more-than-25-in-sorted-array`
+        - [x] 统计位数为偶数的数字 `find-numbers-with-even-number-of-digits`
+        - [x] 将每个元素替换为右侧最大元素 `replace-elements-with-greatest-element-on-right-side`
+        - [x] 和为零的N个唯一整数 `find-n-unique-integers-sum-up-to-zero`
+        - [x] 解压缩编码列表 `decompress-run-length-encoded-list`
+        - [x] 数组序号转换 `rank-transform-of-an-array`
+        - [x] 方阵中战斗力最弱的 K 行 `the-k-weakest-rows-in-a-matrix`
+        - [x] 检查整数及其两倍数是否存在 `check-if-n-and-its-double-exist`
+        - [x] 统计有序矩阵中的负数 `count-negative-numbers-in-a-sorted-matrix`
         - [x] 有多少小于当前数字的数字 `how-many-numbers-are-smaller-than-the-current-number`
         - [ ] 矩阵中的幸运数 `lucky-numbers-in-a-matrix`
         - [ ] 两个数组间的距离值 `find-the-distance-value-between-two-arrays`
