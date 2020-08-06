@@ -106,12 +106,12 @@
         - [x] 找出数组中的幸运数 `find-lucky-integer-in-an-array`
         - [x] 统计最大组的数目 `count-largest-group`
         - [x] 逐步求和得到正数的最小值 `minimum-value-to-get-positive-step-by-step-sum`
-        - [ ] 拥有最多糖果的孩子 `kids-with-the-greatest-number-of-candies`
-        - [ ] 在既定时间做作业的学生人数 `number-of-students-doing-homework-at-a-given-time`
-        - [ ] 通过翻转子数组使两个数组相等 `make-two-arrays-equal-by-reversing-sub-arrays`
-        - [ ] 数组中两元素的最大乘积 `maximum-product-of-two-elements-in-an-array`
-        - [ ] 重新排列数组 `shuffle-the-array`
-        - [ ] 商品折扣后的最终价格 `final-prices-with-a-special-discount-in-a-shop`
+        - [x] 拥有最多糖果的孩子 `kids-with-the-greatest-number-of-candies`
+        - [x] 在既定时间做作业的学生人数 `number-of-students-doing-homework-at-a-given-time`
+        - [x] 通过翻转子数组使两个数组相等 `make-two-arrays-equal-by-reversing-sub-arrays`
+        - [x] 数组中两元素的最大乘积 `maximum-product-of-two-elements-in-an-array`
+        - [x] 重新排列数组 `shuffle-the-array`
+        - [x] 商品折扣后的最终价格 `final-prices-with-a-special-discount-in-a-shop`
         - [ ] 一维数组的动态和 `running-sum-of-1d-array`
         - [ ] 判定字符是否唯一 `is-unique-lcci`
         - [ ] 判定是否互为字符重排 `check-permutation-lcci`
