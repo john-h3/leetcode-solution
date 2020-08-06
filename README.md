@@ -100,12 +100,12 @@
         - [x] 检查整数及其两倍数是否存在 `check-if-n-and-its-double-exist`
         - [x] 统计有序矩阵中的负数 `count-negative-numbers-in-a-sorted-matrix`
         - [x] 有多少小于当前数字的数字 `how-many-numbers-are-smaller-than-the-current-number`
-        - [ ] 矩阵中的幸运数 `lucky-numbers-in-a-matrix`
-        - [ ] 两个数组间的距离值 `find-the-distance-value-between-two-arrays`
-        - [ ] 按既定顺序创建目标数组 `create-target-array-in-the-given-order`
-        - [ ] 找出数组中的幸运数 `find-lucky-integer-in-an-array`
-        - [ ] 统计最大组的数目 `count-largest-group`
-        - [ ] 逐步求和得到正数的最小值 `minimum-value-to-get-positive-step-by-step-sum`
+        - [x] 矩阵中的幸运数 `lucky-numbers-in-a-matrix`
+        - [x] 两个数组间的距离值 `find-the-distance-value-between-two-arrays`
+        - [x] 按既定顺序创建目标数组 `create-target-array-in-the-given-order`
+        - [x] 找出数组中的幸运数 `find-lucky-integer-in-an-array`
+        - [x] 统计最大组的数目 `count-largest-group`
+        - [x] 逐步求和得到正数的最小值 `minimum-value-to-get-positive-step-by-step-sum`
         - [ ] 拥有最多糖果的孩子 `kids-with-the-greatest-number-of-candies`
         - [ ] 在既定时间做作业的学生人数 `number-of-students-doing-homework-at-a-given-time`
         - [ ] 通过翻转子数组使两个数组相等 `make-two-arrays-equal-by-reversing-sub-arrays`
@@ -126,6 +126,14 @@
         - [ ] 顺时针打印矩阵 `shun-shi-zhen-da-yin-ju-zhen-lcof`
         - [ ] 在排序数组中查找数字 I `zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof`
         - [ ] 0～n-1中缺失的数字 `que-shi-de-shu-zi-lcof`
+        - [ ] 判定字符是否唯一 `is-unique-lcci`
+        - [ ] 判定是否互为字符重排 `check-permutation-lcci`
+        - [ ] 魔术索引 `magic-index-lcci`
+        - [ ] 合并排序的数组 `sorted-merge-lcci`
+        - [ ] 珠玑妙算 `master-mind-lcci`
+        - [ ] 连续数列 `contiguous-sequence-lcci`
+        - [ ] 消失的数字 `missing-number-lcci`
+        - [ ] 主要元素 `find-majority-element-lcci`
     - [x] 动态规划 `dynamic-programming`
         - [x] 最大子序和 `maximum-subarray`
         - [x] 爬楼梯 `climbing-stairs`
