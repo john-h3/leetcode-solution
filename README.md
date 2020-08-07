@@ -112,15 +112,12 @@
         - [x] 数组中两元素的最大乘积 `maximum-product-of-two-elements-in-an-array`
         - [x] 重新排列数组 `shuffle-the-array`
         - [x] 商品折扣后的最终价格 `final-prices-with-a-special-discount-in-a-shop`
-        - [ ] 一维数组的动态和 `running-sum-of-1d-array`
-        - [ ] 判定字符是否唯一 `is-unique-lcci`
-        - [ ] 判定是否互为字符重排 `check-permutation-lcci`
-        - [ ] 魔术索引 `magic-index-lcci`
-        - [ ] 合并排序的数组 `sorted-merge-lcci`
-        - [ ] 珠玑妙算 `master-mind-lcci`
-        - [ ] 连续数列 `contiguous-sequence-lcci`
-        - [ ] 消失的数字 `missing-number-lcci`
-        - [ ] 主要元素 `find-majority-element-lcci`
+        - [x] 一维数组的动态和 `running-sum-of-1d-array`
+        - [x] 数组异或操作 `xor-operation-in-an-array`
+        - [ ] 去掉最低工资和最高工资后的工资平均值 `average-salary-excluding-the-minimum-and-maximum-salary`
+        - [ ] 判断能否形成等差数列 `can-make-arithmetic-progression-from-sequence`
+        - [ ] 好数对的数目 `number-of-good-pairs`
+        - [ ] 统计好三元组 `count-good-triplets`
         - [ ] 数组中重复的数字 `shu-zu-zhong-zhong-fu-de-shu-zi-lcof`
         - [ ] 二维数组中的查找 `er-wei-shu-zu-zhong-de-cha-zhao-lcof`
         - [ ] 顺时针打印矩阵 `shun-shi-zhen-da-yin-ju-zhen-lcof`
