@@ -114,14 +114,14 @@
         - [x] 商品折扣后的最终价格 `final-prices-with-a-special-discount-in-a-shop`
         - [x] 一维数组的动态和 `running-sum-of-1d-array`
         - [x] 数组异或操作 `xor-operation-in-an-array`
-        - [ ] 去掉最低工资和最高工资后的工资平均值 `average-salary-excluding-the-minimum-and-maximum-salary`
-        - [ ] 判断能否形成等差数列 `can-make-arithmetic-progression-from-sequence`
-        - [ ] 好数对的数目 `number-of-good-pairs`
-        - [ ] 统计好三元组 `count-good-triplets`
-        - [ ] 数组中重复的数字 `shu-zu-zhong-zhong-fu-de-shu-zi-lcof`
-        - [ ] 二维数组中的查找 `er-wei-shu-zu-zhong-de-cha-zhao-lcof`
-        - [ ] 顺时针打印矩阵 `shun-shi-zhen-da-yin-ju-zhen-lcof`
-        - [ ] 在排序数组中查找数字 I `zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof`
+        - [x] 去掉最低工资和最高工资后的工资平均值 `average-salary-excluding-the-minimum-and-maximum-salary`
+        - [x] 判断能否形成等差数列 `can-make-arithmetic-progression-from-sequence`
+        - [x] 好数对的数目 `number-of-good-pairs`
+        - [x] 统计好三元组 `count-good-triplets`
+        - [x] 数组中重复的数字 `shu-zu-zhong-zhong-fu-de-shu-zi-lcof`
+        - [x] 二维数组中的查找 `er-wei-shu-zu-zhong-de-cha-zhao-lcof`
+        - [x] 顺时针打印矩阵 `shun-shi-zhen-da-yin-ju-zhen-lcof`
+        - [x] 在排序数组中查找数字 I `zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof`
         - [ ] 0～n-1中缺失的数字 `que-shi-de-shu-zi-lcof`
         - [ ] 判定字符是否唯一 `is-unique-lcci`
         - [ ] 判定是否互为字符重排 `check-permutation-lcci`
