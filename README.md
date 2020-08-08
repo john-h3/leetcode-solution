@@ -1,5 +1,5 @@
 # nothing-to-do
-没事可做的时候，就来刷刷题吧
+闲暇之余，刷一下题，弥补数据结构和算法的短板
 
 ## 概述
 
@@ -17,7 +17,7 @@
 按照定好的规则，最近的安排是
 
 - [ ] 简单 `easy`
-    - [ ] 数组 `array`
+    - [x] 数组 `array`
         - [x] 两数之和 `two-sum`
         - [x] 删除排序数组中的重复项 `remove-duplicates-from-sorted-array`
         - [x] 移除元素 `remove-element`
@@ -122,15 +122,15 @@
         - [x] 二维数组中的查找 `er-wei-shu-zu-zhong-de-cha-zhao-lcof`
         - [x] 顺时针打印矩阵 `shun-shi-zhen-da-yin-ju-zhen-lcof`
         - [x] 在排序数组中查找数字 I `zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof`
-        - [ ] 0～n-1中缺失的数字 `que-shi-de-shu-zi-lcof`
-        - [ ] 判定字符是否唯一 `is-unique-lcci`
-        - [ ] 判定是否互为字符重排 `check-permutation-lcci`
-        - [ ] 魔术索引 `magic-index-lcci`
-        - [ ] 合并排序的数组 `sorted-merge-lcci`
-        - [ ] 珠玑妙算 `master-mind-lcci`
-        - [ ] 连续数列 `contiguous-sequence-lcci`
-        - [ ] 消失的数字 `missing-number-lcci`
-        - [ ] 主要元素 `find-majority-element-lcci`
+        - [x] 0～n-1中缺失的数字 `que-shi-de-shu-zi-lcof`
+        - [x] 判定字符是否唯一 `is-unique-lcci`
+        - [x] 判定是否互为字符重排 `check-permutation-lcci`
+        - [x] 魔术索引 `magic-index-lcci`
+        - [x] 合并排序的数组 `sorted-merge-lcci`
+        - [x] 珠玑妙算 `master-mind-lcci`
+        - [x] 连续数列 `contiguous-sequence-lcci`
+        - [x] 消失的数字 `missing-number-lcci`
+        - [x] 主要元素 `find-majority-element-lcci`
     - [x] 动态规划 `dynamic-programming`
         - [x] 最大子序和 `maximum-subarray`
         - [x] 爬楼梯 `climbing-stairs`
