@@ -145,11 +145,11 @@
         - [x] 连续数列 `contiguous-sequence-lcci`
         - [x] 按摩师 `the-masseuse-lcci`
     - [ ] 字符串 `string`
-        - [ ] 罗马数字转整数 `roman-to-integer`
-        - [ ] 最长公共前缀 `longest-common-prefix`
-        - [ ] 有效的括号 `valid-parentheses`
-        - [ ] 实现 strStr() `implement-strstr`
-        - [ ] 外观数列 `count-and-say`
+        - [x] 罗马数字转整数 `roman-to-integer`
+        - [x] 最长公共前缀 `longest-common-prefix`
+        - [x] 有效的括号 `valid-parentheses`
+        - [x] 实现 strStr() `implement-strstr`
+        - [x] 外观数列 `count-and-say`
         - [ ] 最后一个单词的长度 `length-of-last-word`
         - [ ] 二进制求和 `add-binary`
         - [ ] 验证回文串 `valid-palindrome`
