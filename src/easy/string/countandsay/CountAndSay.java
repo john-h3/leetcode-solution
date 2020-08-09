@@ -1,4 +1,4 @@
-package easy.array.countandsay;
+package easy.string.countandsay;
 
 /**
  * CountAndSay

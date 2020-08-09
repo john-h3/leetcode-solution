@@ -1,4 +1,4 @@
-package easy.array.reversestring;
+package easy.string.reversestring;
 
 /**
  * ReverseString

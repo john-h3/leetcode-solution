@@ -150,10 +150,10 @@
         - [x] 有效的括号 `valid-parentheses`
         - [x] 实现 strStr() `implement-strstr`
         - [x] 外观数列 `count-and-say`
-        - [ ] 最后一个单词的长度 `length-of-last-word`
-        - [ ] 二进制求和 `add-binary`
-        - [ ] 验证回文串 `valid-palindrome`
-        - [ ] 反转字符串 `reverse-string`
+        - [x] 最后一个单词的长度 `length-of-last-word`
+        - [x] 二进制求和 `add-binary`
+        - [x] 验证回文串 `valid-palindrome`
+        - [x] 反转字符串 `reverse-string`
         - [ ] 反转字符串中的元音字母 `reverse-vowels-of-a-string`
         - [ ] 赎金信 `ransom-note`
         - [ ] 字符串中的第一个唯一字符 `first-unique-character-in-a-string`

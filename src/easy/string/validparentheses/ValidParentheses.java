@@ -1,8 +1,7 @@
-package easy.array.validparentheses;
+package easy.string.validparentheses;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
-import java.util.Queue;
 
 /**
  * ValidParentheses

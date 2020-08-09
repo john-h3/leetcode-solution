@@ -1,4 +1,4 @@
-package easy.array.validpalindrome;
+package easy.string.validpalindrome;
 
 /**
  * ValidPalindrome

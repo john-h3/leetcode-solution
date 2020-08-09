@@ -1,4 +1,4 @@
-package easy.array.addbinary;
+package easy.string.addbinary;
 
 /**
  * AddBinary

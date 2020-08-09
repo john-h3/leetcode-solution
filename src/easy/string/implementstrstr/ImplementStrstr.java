@@ -1,4 +1,4 @@
-package easy.array.implementstrstr;
+package easy.string.implementstrstr;
 
 /**
  * ImplementStrstr

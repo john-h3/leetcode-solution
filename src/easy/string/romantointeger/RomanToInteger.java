@@ -1,4 +1,4 @@
-package easy.array.romantointeger;
+package easy.string.romantointeger;
 
 /**
  * RomanToInteger

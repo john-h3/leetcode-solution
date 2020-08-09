@@ -1,4 +1,4 @@
-package easy.array.lengthoflastword;
+package easy.string.lengthoflastword;
 
 /**
  * LengthOfLastWord
