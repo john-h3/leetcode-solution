@@ -154,8 +154,8 @@
         - [x] 二进制求和 `add-binary`
         - [x] 验证回文串 `valid-palindrome`
         - [x] 反转字符串 `reverse-string`
-        - [ ] 反转字符串中的元音字母 `reverse-vowels-of-a-string`
-        - [ ] 赎金信 `ransom-note`
+        - [x] 反转字符串中的元音字母 `reverse-vowels-of-a-string`
+        - [x] 赎金信 `ransom-note`
         - [ ] 字符串中的第一个唯一字符 `first-unique-character-in-a-string`
         - [ ] 字符串相加 `add-strings`
         - [ ] 字符串中的单词数 `number-of-segments-in-a-string`
