@@ -158,8 +158,8 @@
         - [x] 赎金信 `ransom-note`
         - [x] 字符串中的第一个唯一字符 `first-unique-character-in-a-string`
         - [x] 字符串相加 `add-strings`
-        - [ ] 字符串中的单词数 `number-of-segments-in-a-string`
-        - [ ] 压缩字符串 `string-compression`
+        - [x] 字符串中的单词数 `number-of-segments-in-a-string`
+        - [x] 压缩字符串 `string-compression`
         - [ ] 重复的子字符串 `repeated-substring-pattern`
         - [ ] 检测大写字母 `detect-capital`
         - [ ] 最长特殊序列 Ⅰ `longest-uncommon-subsequence-i`
