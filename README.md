@@ -160,10 +160,10 @@
         - [x] 字符串相加 `add-strings`
         - [x] 字符串中的单词数 `number-of-segments-in-a-string`
         - [x] 压缩字符串 `string-compression`
-        - [ ] 重复的子字符串 `repeated-substring-pattern`
-        - [ ] 检测大写字母 `detect-capital`
-        - [ ] 最长特殊序列 Ⅰ `longest-uncommon-subsequence-i`
-        - [ ] 反转字符串 II `reverse-string-ii`
+        - [x] 重复的子字符串 `repeated-substring-pattern`
+        - [x] 检测大写字母 `detect-capital`
+        - [x] 最长特殊序列 Ⅰ `longest-uncommon-subsequence-i`
+        - [x] 反转字符串 II `reverse-string-ii`
         - [ ] 学生出勤记录 I `student-attendance-record-i`
         - [ ] 反转字符串中的单词 III `reverse-words-in-a-string-iii`
         - [ ] 根据二叉树创建字符串 `construct-string-from-binary-tree`
