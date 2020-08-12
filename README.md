@@ -164,11 +164,11 @@
         - [x] 检测大写字母 `detect-capital`
         - [x] 最长特殊序列 Ⅰ `longest-uncommon-subsequence-i`
         - [x] 反转字符串 II `reverse-string-ii`
-        - [ ] 学生出勤记录 I `student-attendance-record-i`
-        - [ ] 反转字符串中的单词 III `reverse-words-in-a-string-iii`
-        - [ ] 根据二叉树创建字符串 `construct-string-from-binary-tree`
-        - [ ] 机器人能否返回原点 `robot-return-to-origin`
-        - [ ] 验证回文字符串 Ⅱ `valid-palindrome-ii`
+        - [x] 学生出勤记录 I `student-attendance-record-i`
+        - [x] 反转字符串中的单词 III `reverse-words-in-a-string-iii`
+        - [x] 根据二叉树创建字符串 `construct-string-from-binary-tree`
+        - [x] 机器人能否返回原点 `robot-return-to-origin`
+        - [x] 验证回文字符串 Ⅱ `valid-palindrome-ii`
         - [ ] 重复叠加字符串匹配 `repeated-string-match`
         - [ ] 计数二进制子串 `count-binary-substrings`
         - [ ] 转换成小写字母 `to-lower-case`
