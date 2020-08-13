@@ -169,9 +169,9 @@
         - [x] 根据二叉树创建字符串 `construct-string-from-binary-tree`
         - [x] 机器人能否返回原点 `robot-return-to-origin`
         - [x] 验证回文字符串 Ⅱ `valid-palindrome-ii`
-        - [ ] 重复叠加字符串匹配 `repeated-string-match`
-        - [ ] 计数二进制子串 `count-binary-substrings`
-        - [ ] 转换成小写字母 `to-lower-case`
+        - [x] 重复叠加字符串匹配 `repeated-string-match`
+        - [x] 计数二进制子串 `count-binary-substrings`
+        - [x] 转换成小写字母 `to-lower-case`
         - [ ] 旋转数字 `rotated-digits`
         - [ ] 唯一摩尔斯密码词 `unique-morse-code-words`
         - [ ] 最常见的单词 `most-common-word`
