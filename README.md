@@ -172,11 +172,11 @@
         - [x] 重复叠加字符串匹配 `repeated-string-match`
         - [x] 计数二进制子串 `count-binary-substrings`
         - [x] 转换成小写字母 `to-lower-case`
-        - [ ] 旋转数字 `rotated-digits`
-        - [ ] 唯一摩尔斯密码词 `unique-morse-code-words`
-        - [ ] 最常见的单词 `most-common-word`
-        - [ ] 山羊拉丁文 `goat-latin`
-        - [ ] 亲密字符串 `buddy-strings`
+        - [x] 旋转数字 `rotated-digits`
+        - [x] 唯一摩尔斯密码词 `unique-morse-code-words`
+        - [x] 最常见的单词 `most-common-word`
+        - [x] 山羊拉丁文 `goat-latin`
+        - [x] 亲密字符串 `buddy-strings`
         - [ ] 特殊等价字符串组 `groups-of-special-equivalent-strings`
         - [ ] 仅仅反转字母 `reverse-only-letters`
         - [ ] 长按键入 `long-pressed-name`
