@@ -1,4 +1,4 @@
-package easy.array.longestcommonprefix;
+package easy.string.longestcommonprefix;
 
 /**
  * LongestCommonPrefix
