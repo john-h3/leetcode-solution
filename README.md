@@ -177,9 +177,9 @@
         - [x] 最常见的单词 `most-common-word`
         - [x] 山羊拉丁文 `goat-latin`
         - [x] 亲密字符串 `buddy-strings`
-        - [ ] 特殊等价字符串组 `groups-of-special-equivalent-strings`
-        - [ ] 仅仅反转字母 `reverse-only-letters`
-        - [ ] 长按键入 `long-pressed-name`
+        - [x] 特殊等价字符串组 `groups-of-special-equivalent-strings`
+        - [x] 仅仅反转字母 `reverse-only-letters`
+        - [x] 长按键入 `long-pressed-name`
         - [ ] 独特的电子邮件地址 `unique-email-addresses`
         - [ ] 重新排列日志文件 `reorder-data-in-log-files`
         - [ ] 字符串的最大公因子 `greatest-common-divisor-of-strings`
