@@ -180,9 +180,9 @@
         - [x] 特殊等价字符串组 `groups-of-special-equivalent-strings`
         - [x] 仅仅反转字母 `reverse-only-letters`
         - [x] 长按键入 `long-pressed-name`
-        - [ ] 独特的电子邮件地址 `unique-email-addresses`
-        - [ ] 重新排列日志文件 `reorder-data-in-log-files`
-        - [ ] 字符串的最大公因子 `greatest-common-divisor-of-strings`
+        - [x] 独特的电子邮件地址 `unique-email-addresses`
+        - [x] 重新排列日志文件 `reorder-data-in-log-files`
+        - [x] 字符串的最大公因子 `greatest-common-divisor-of-strings`
         - [ ] IP 地址无效化 `defanging-an-ip-address`
         - [ ] 比较字符串最小字母出现频次 `compare-strings-by-frequency-of-the-smallest-character`
         - [ ] “气球” 的最大数量 `maximum-number-of-balloons`
