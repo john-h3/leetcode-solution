@@ -183,11 +183,11 @@
         - [x] 独特的电子邮件地址 `unique-email-addresses`
         - [x] 重新排列日志文件 `reorder-data-in-log-files`
         - [x] 字符串的最大公因子 `greatest-common-divisor-of-strings`
-        - [ ] IP 地址无效化 `defanging-an-ip-address`
-        - [ ] 比较字符串最小字母出现频次 `compare-strings-by-frequency-of-the-smallest-character`
-        - [ ] “气球” 的最大数量 `maximum-number-of-balloons`
-        - [ ] 分割平衡字符串 `split-a-string-in-balanced-strings`
-        - [ ] 解码字母到整数映射 `decrypt-string-from-alphabet-to-integer-mapping`
+        - [x] IP 地址无效化 `defanging-an-ip-address`
+        - [x] 比较字符串最小字母出现频次 `compare-strings-by-frequency-of-the-smallest-character`
+        - [x] “气球” 的最大数量 `maximum-number-of-balloons`
+        - [x] 分割平衡字符串 `split-a-string-in-balanced-strings`
+        - [x] 解码字母到整数映射 `decrypt-string-from-alphabet-to-integer-mapping`
         - [ ] 删除回文子序列 `remove-palindromic-subsequences`
         - [ ] 上升下降字符串 `increasing-decreasing-string`
         - [ ] 生成每种字符都是奇数个的字符串 `generate-a-string-with-characters-that-have-odd-counts`
@@ -195,7 +195,7 @@
         - [ ] 重新格式化字符串 `reformat-the-string`
         - [ ] 分割字符串的最大得分 `maximum-score-after-splitting-a-string`
         - [ ] 旅行终点站 `destination-city`
-        - [ ] 连续字符 `consecutive-characters`
+        - [ ] 连续字符 `consecutive-characters`www
         - [ ] 检查单词是否为句中其他单词的前缀 `check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence`
         - [ ] 判断路径是否相交 `path-crossing`
         - [ ] 转变日期格式 `reformat-date`
