@@ -188,10 +188,10 @@
         - [x] “气球” 的最大数量 `maximum-number-of-balloons`
         - [x] 分割平衡字符串 `split-a-string-in-balanced-strings`
         - [x] 解码字母到整数映射 `decrypt-string-from-alphabet-to-integer-mapping`
-        - [ ] 删除回文子序列 `remove-palindromic-subsequences`
-        - [ ] 上升下降字符串 `increasing-decreasing-string`
-        - [ ] 生成每种字符都是奇数个的字符串 `generate-a-string-with-characters-that-have-odd-counts`
-        - [ ] 数组中的字符串匹配 `string-matching-in-an-array`
+        - [x] 删除回文子序列 `remove-palindromic-subsequences`
+        - [x] 上升下降字符串 `increasing-decreasing-string`
+        - [x] 生成每种字符都是奇数个的字符串 `generate-a-string-with-characters-that-have-odd-counts`
+        - [x] 数组中的字符串匹配 `string-matching-in-an-array`
         - [ ] 重新格式化字符串 `reformat-the-string`
         - [ ] 分割字符串的最大得分 `maximum-score-after-splitting-a-string`
         - [ ] 旅行终点站 `destination-city`
