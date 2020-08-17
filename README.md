@@ -192,10 +192,10 @@
         - [x] 上升下降字符串 `increasing-decreasing-string`
         - [x] 生成每种字符都是奇数个的字符串 `generate-a-string-with-characters-that-have-odd-counts`
         - [x] 数组中的字符串匹配 `string-matching-in-an-array`
-        - [ ] 重新格式化字符串 `reformat-the-string`
-        - [ ] 分割字符串的最大得分 `maximum-score-after-splitting-a-string`
-        - [ ] 旅行终点站 `destination-city`
-        - [ ] 连续字符 `consecutive-characters`www
+        - [x] 重新格式化字符串 `reformat-the-string`
+        - [x] 分割字符串的最大得分 `maximum-score-after-splitting-a-string`
+        - [x] 旅行终点站 `destination-city`
+        - [ ] 连续字符 `consecutive-characters`
         - [ ] 检查单词是否为句中其他单词的前缀 `check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence`
         - [ ] 判断路径是否相交 `path-crossing`
         - [ ] 转变日期格式 `reformat-date`
