@@ -28,13 +28,13 @@ public class RepeatedStringMatch {
                 }
             } else {
                 int repeat = 1;
-                String tmp = A;
+                StringBuilder tmp = new StringBuilder(A);
                 while (repeat <= 3) {
-                    if (tmp.contains(B)) {
+                    if (tmp.toString().contains(B)) {
                         return repeat;
                     } else {
                         repeat++;
-                        tmp += A;
+                        tmp.append(A);
                     }
                 }
                 return -1;

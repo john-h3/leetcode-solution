@@ -41,8 +41,4 @@ public class ShunShiZhenDaYinJuZhenLcof {
             return answer;
         }
     }
-
-    public static void main(String[] args) {
-        new ShunShiZhenDaYinJuZhenLcof().new Solution().spiralOrder(new int[][]{});
-    }
 }
