@@ -195,12 +195,12 @@
         - [x] 重新格式化字符串 `reformat-the-string`
         - [x] 分割字符串的最大得分 `maximum-score-after-splitting-a-string`
         - [x] 旅行终点站 `destination-city`
-        - [ ] 连续字符 `consecutive-characters`
-        - [ ] 检查单词是否为句中其他单词的前缀 `check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence`
-        - [ ] 判断路径是否相交 `path-crossing`
-        - [ ] 转变日期格式 `reformat-date`
-        - [ ] 翻转单词顺序 `fan-zhuan-dan-ci-shun-xu-lcof`
-        - [ ] 左旋转字符串 `zuo-xuan-zhuan-zi-fu-chuan-lcof`
+        - [x] 连续字符 `consecutive-characters`
+        - [x] 检查单词是否为句中其他单词的前缀 `check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence`
+        - [x] 判断路径是否相交 `path-crossing`
+        - [x] 转变日期格式 `reformat-date`
+        - [x] 翻转单词顺序 `fan-zhuan-dan-ci-shun-xu-lcof`
+        - [x] 左旋转字符串 `zuo-xuan-zhuan-zi-fu-chuan-lcof`
         - [ ] 判定是否互为字符重排 `check-permutation-lcci`
         - [ ] URL化 `string-to-url-lcci`
         - [ ] 回文排列 `palindrome-permutation-lcci`
