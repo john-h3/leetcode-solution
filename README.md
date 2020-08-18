@@ -144,7 +144,7 @@
         - [x] 三步问题 `three-steps-problem-lcci`
         - [x] 连续数列 `contiguous-sequence-lcci`
         - [x] 按摩师 `the-masseuse-lcci`
-    - [ ] 字符串 `string`
+    - [x] 字符串 `string`
         - [x] 罗马数字转整数 `roman-to-integer`
         - [x] 最长公共前缀 `longest-common-prefix`
         - [x] 有效的括号 `valid-parentheses`
@@ -201,8 +201,8 @@
         - [x] 转变日期格式 `reformat-date`
         - [x] 翻转单词顺序 `fan-zhuan-dan-ci-shun-xu-lcof`
         - [x] 左旋转字符串 `zuo-xuan-zhuan-zi-fu-chuan-lcof`
-        - [ ] 判定是否互为字符重排 `check-permutation-lcci`
-        - [ ] URL化 `string-to-url-lcci`
-        - [ ] 回文排列 `palindrome-permutation-lcci`
-        - [ ] 字符串压缩 `compress-string-lcci`
-        - [ ] 字符串轮转 `string-rotation-lcci`
+        - [x] 判定是否互为字符重排 `check-permutation-lcci`
+        - [x] URL化 `string-to-url-lcci`
+        - [x] 回文排列 `palindrome-permutation-lcci`
+        - [x] 字符串压缩 `compress-string-lcci`
+        - [x] 字符串轮转 `string-rotation-lcci`
