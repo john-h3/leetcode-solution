@@ -207,7 +207,7 @@
         - [x] 字符串压缩 `compress-string-lcci`
         - [x] 字符串轮转 `string-rotation-lcci`
     - [ ] 数学 `math`
-        - [ ] 整数反转 `reverse-integer`
+        - [x] 整数反转 `reverse-integer`
         - [ ] 回文数 `palindrome-number`
         - [ ] 罗马数字转整数 `roman-to-integer`
         - [ ] 二进制求和 `add-binary`
