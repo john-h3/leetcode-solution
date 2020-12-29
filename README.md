@@ -208,7 +208,7 @@
         - [x] 字符串轮转 `string-rotation-lcci`
     - [ ] 数学 `math`
         - [x] 整数反转 `reverse-integer`
-        - [ ] 回文数 `palindrome-number`
+        - [x] 回文数 `palindrome-number`
         - [ ] 罗马数字转整数 `roman-to-integer`
         - [ ] 二进制求和 `add-binary`
         - [ ] x 的平方根 `sqrtx`
