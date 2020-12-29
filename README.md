@@ -206,3 +206,56 @@
         - [x] 回文排列 `palindrome-permutation-lcci`
         - [x] 字符串压缩 `compress-string-lcci`
         - [x] 字符串轮转 `string-rotation-lcci`
+    - [ ] 数学 `math`
+        - [ ] 整数反转 `reverse-integer`
+        - [ ] 回文数 `palindrome-number`
+        - [ ] 罗马数字转整数 `roman-to-integer`
+        - [ ] 二进制求和 `add-binary`
+        - [ ] x 的平方根 `sqrtx`
+        - [ ] Excel表列名称 `excel-sheet-column-title`
+        - [ ] Excel表列序号 `excel-sheet-column-number`
+        - [ ] 阶乘后的零 `factorial-trailing-zeroes`
+        - [ ] 快乐数 `happy-number`
+        - [ ] 计数质数 `count-primes`
+        - [ ] 2的幂 `power-of-two`
+        - [ ] 各位相加 `add-digits`
+        - [ ] 丑数 `ugly-number`
+        - [ ] 丢失的数字 `missing-number`
+        - [ ] 3的幂 `power-of-three`
+        - [ ] 有效的完全平方数 `valid-perfect-square`
+        - [ ] 排列硬币 `arranging-coins`
+        - [ ] 最小操作次数使数组元素相等 `minimum-moves-to-equal-array-elements`
+        - [ ] 构造矩形 `construct-the-rectangle`
+        - [ ] 完美数 `perfect-number`
+        - [ ] 范围求和 II `range-addition-ii`
+        - [ ] 三个数的最大乘积 `maximum-product-of-three-numbers`
+        - [ ] 错误的集合 `set-mismatch`
+        - [ ] 自除数 `self-dividing-numbers`
+        - [ ] 最大三角形面积 `largest-triangle-area`
+        - [ ] 矩形重叠 `rectangle-overlap`
+        - [ ] 二进制间距 `binary-gap`
+        - [ ] 三维形体投影面积 `projection-area-of-3d-shapes`
+        - [ ] 三维形体的表面积 `surface-area-of-3d-shapes`
+        - [ ] 最小差值 I `smallest-range-i`
+        - [ ] 卡牌分组 `x-of-a-kind-in-a-deck-of-cards`
+        - [ ] 增减字符串匹配 `di-string-match`
+        - [ ] 强整数 `powerful-integers`
+        - [ ] 三角形的最大周长 `largest-perimeter-triangle`
+        - [ ] 十进制整数的反码 `complement-of-base-10-integer`
+        - [ ] 除数博弈 `divisor-game`
+        - [ ] 有效的回旋镖 `valid-boomerang`
+        - [ ] 分糖果 II `distribute-candies-to-people`
+        - [ ] 一年中的第几天 `day-of-the-year`
+        - [ ] 质数排列 `prime-arrangements`
+        - [ ] 玩筹码 `minimum-cost-to-move-chips-to-the-same-position`
+        - [ ] 缀点成线 `check-if-it-is-a-straight-line`
+        - [ ] 找出给定方程的正整数解 `find-positive-integer-solution-for-a-given-equation`
+        - [ ] 整数的各位积和之差 `subtract-the-product-and-sum-of-digits-of-an-integer`
+        - [ ] 将整数转换为两个无零整数的和 `convert-integer-to-the-sum-of-two-no-zero-integers`
+        - [ ] 6 和 9 组成的最大数字 `maximum-69-number`
+        - [ ] 好数对的数目 `number-of-good-pairs`
+        - [ ] 在区间范围内统计奇数数目 `count-odd-numbers-in-an-interval-range`
+        - [ ] 打印从1到最大的n位数 `da-yin-cong-1dao-zui-da-de-nwei-shu-lcof`
+        - [ ] 阶乘尾数 `factorial-zeros-lcci`
+        - [ ] 最大数值 `maximum-lcci`
+        - [ ] 消失的数字 `missing-number-lcci`
