@@ -210,7 +210,7 @@
         - [x] 整数反转 `reverse-integer`
         - [x] 回文数 `palindrome-number`
         - [x] 罗马数字转整数 `roman-to-integer`
-        - [ ] 二进制求和 `add-binary`
+        - [x] 二进制求和 `add-binary`
         - [ ] x 的平方根 `sqrtx`
         - [ ] Excel表列名称 `excel-sheet-column-title`
         - [ ] Excel表列序号 `excel-sheet-column-number`
