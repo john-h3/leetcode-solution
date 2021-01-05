@@ -209,7 +209,7 @@
     - [ ] 数学 `math`
         - [x] 整数反转 `reverse-integer`
         - [x] 回文数 `palindrome-number`
-        - [ ] 罗马数字转整数 `roman-to-integer`
+        - [x] 罗马数字转整数 `roman-to-integer`
         - [ ] 二进制求和 `add-binary`
         - [ ] x 的平方根 `sqrtx`
         - [ ] Excel表列名称 `excel-sheet-column-title`
