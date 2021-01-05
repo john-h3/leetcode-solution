@@ -212,7 +212,7 @@
         - [x] 罗马数字转整数 `roman-to-integer`
         - [x] 二进制求和 `add-binary`
         - [x] x 的平方根 `sqrtx`
-        - [ ] Excel表列名称 `excel-sheet-column-title`
+        - [x] Excel表列名称 `excel-sheet-column-title`
         - [ ] Excel表列序号 `excel-sheet-column-number`
         - [ ] 阶乘后的零 `factorial-trailing-zeroes`
         - [ ] 快乐数 `happy-number`
