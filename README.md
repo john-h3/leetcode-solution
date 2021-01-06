@@ -213,7 +213,7 @@
         - [x] 二进制求和 `add-binary`
         - [x] x 的平方根 `sqrtx`
         - [x] Excel表列名称 `excel-sheet-column-title`
-        - [ ] Excel表列序号 `excel-sheet-column-number`
+        - [x] Excel表列序号 `excel-sheet-column-number`
         - [ ] 阶乘后的零 `factorial-trailing-zeroes`
         - [ ] 快乐数 `happy-number`
         - [ ] 计数质数 `count-primes`
