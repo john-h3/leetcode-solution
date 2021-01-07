@@ -218,7 +218,7 @@
         - [x] 快乐数 `happy-number`
         - [x] 计数质数 `count-primes`
         - [x] 2的幂 `power-of-two`
-        - [ ] 各位相加 `add-digits`
+        - [x] 各位相加 `add-digits`
         - [ ] 丑数 `ugly-number`
         - [ ] 丢失的数字 `missing-number`
         - [ ] 3的幂 `power-of-three`
