@@ -216,7 +216,7 @@
         - [x] Excel表列序号 `excel-sheet-column-number`
         - [x] 阶乘后的零 `factorial-trailing-zeroes`
         - [x] 快乐数 `happy-number`
-        - [ ] 计数质数 `count-primes`
+        - [x] 计数质数 `count-primes`
         - [ ] 2的幂 `power-of-two`
         - [ ] 各位相加 `add-digits`
         - [ ] 丑数 `ugly-number`
