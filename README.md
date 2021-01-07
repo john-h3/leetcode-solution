@@ -217,7 +217,7 @@
         - [x] 阶乘后的零 `factorial-trailing-zeroes`
         - [x] 快乐数 `happy-number`
         - [x] 计数质数 `count-primes`
-        - [ ] 2的幂 `power-of-two`
+        - [x] 2的幂 `power-of-two`
         - [ ] 各位相加 `add-digits`
         - [ ] 丑数 `ugly-number`
         - [ ] 丢失的数字 `missing-number`
