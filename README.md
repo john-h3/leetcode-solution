@@ -220,7 +220,7 @@
         - [x] 2的幂 `power-of-two`
         - [x] 各位相加 `add-digits`
         - [x] 丑数 `ugly-number`
-        - [ ] 丢失的数字 `missing-number`
+        - [x] 丢失的数字 `missing-number`
         - [ ] 3的幂 `power-of-three`
         - [ ] 有效的完全平方数 `valid-perfect-square`
         - [ ] 排列硬币 `arranging-coins`
