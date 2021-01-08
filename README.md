@@ -222,7 +222,7 @@
         - [x] 丑数 `ugly-number`
         - [x] 丢失的数字 `missing-number`
         - [x] 3的幂 `power-of-three`
-        - [ ] 有效的完全平方数 `valid-perfect-square`
+        - [x] 有效的完全平方数 `valid-perfect-square`
         - [ ] 排列硬币 `arranging-coins`
         - [ ] 最小操作次数使数组元素相等 `minimum-moves-to-equal-array-elements`
         - [ ] 构造矩形 `construct-the-rectangle`
