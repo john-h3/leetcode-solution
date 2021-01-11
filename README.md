@@ -224,7 +224,7 @@
         - [x] 3的幂 `power-of-three`
         - [x] 有效的完全平方数 `valid-perfect-square`
         - [x] 排列硬币 `arranging-coins`
-        - [ ] 最小操作次数使数组元素相等 `minimum-moves-to-equal-array-elements`
+        - [x] 最小操作次数使数组元素相等 `minimum-moves-to-equal-array-elements`
         - [ ] 构造矩形 `construct-the-rectangle`
         - [ ] 完美数 `perfect-number`
         - [ ] 范围求和 II `range-addition-ii`
