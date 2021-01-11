@@ -227,7 +227,7 @@
         - [x] 最小操作次数使数组元素相等 `minimum-moves-to-equal-array-elements`
         - [x] 构造矩形 `construct-the-rectangle`
         - [x] 完美数 `perfect-number`
-        - [ ] 范围求和 II `range-addition-ii`
+        - [x] 范围求和 II `range-addition-ii`
         - [ ] 三个数的最大乘积 `maximum-product-of-three-numbers`
         - [ ] 错误的集合 `set-mismatch`
         - [ ] 自除数 `self-dividing-numbers`
