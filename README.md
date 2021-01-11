@@ -228,7 +228,7 @@
         - [x] 构造矩形 `construct-the-rectangle`
         - [x] 完美数 `perfect-number`
         - [x] 范围求和 II `range-addition-ii`
-        - [ ] 三个数的最大乘积 `maximum-product-of-three-numbers`
+        - [x] 三个数的最大乘积 `maximum-product-of-three-numbers`
         - [ ] 错误的集合 `set-mismatch`
         - [ ] 自除数 `self-dividing-numbers`
         - [ ] 最大三角形面积 `largest-triangle-area`
