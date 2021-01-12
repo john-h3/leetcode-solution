@@ -230,7 +230,7 @@
         - [x] 范围求和 II `range-addition-ii`
         - [x] 三个数的最大乘积 `maximum-product-of-three-numbers`
         - [x] 错误的集合 `set-mismatch`
-        - [ ] 自除数 `self-dividing-numbers`
+        - [x] 自除数 `self-dividing-numbers`
         - [ ] 最大三角形面积 `largest-triangle-area`
         - [ ] 矩形重叠 `rectangle-overlap`
         - [ ] 二进制间距 `binary-gap`
