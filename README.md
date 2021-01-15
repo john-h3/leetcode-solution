@@ -235,8 +235,8 @@
         - [x] 矩形重叠 `rectangle-overlap`
         - [x] 二进制间距 `binary-gap`
         - [x] 三维形体投影面积 `projection-area-of-3d-shapes`
-        - [ ] 三维形体的表面积 `surface-area-of-3d-shapes`
-        - [ ] 最小差值 I `smallest-range-i`
+        - [x] 三维形体的表面积 `surface-area-of-3d-shapes`
+        - [x] 最小差值 I `smallest-range-i`
         - [ ] 卡牌分组 `x-of-a-kind-in-a-deck-of-cards`
         - [ ] 增减字符串匹配 `di-string-match`
         - [ ] 强整数 `powerful-integers`
