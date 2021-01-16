@@ -1,4 +1,4 @@
-# nothing-to-do
+# leetcode-solution
 闲暇之余，刷一下题，弥补数据结构和算法的短板
 
 ## 概述
