@@ -241,7 +241,7 @@
         - [x] 增减字符串匹配 `di-string-match`
         - [x] 强整数 `powerful-integers`
         - [x] 三角形的最大周长 `largest-perimeter-triangle`
-        - [ ] 十进制整数的反码 `complement-of-base-10-integer`
+        - [x] 十进制整数的反码 `complement-of-base-10-integer`
         - [ ] 除数博弈 `divisor-game`
         - [ ] 有效的回旋镖 `valid-boomerang`
         - [ ] 分糖果 II `distribute-candies-to-people`
