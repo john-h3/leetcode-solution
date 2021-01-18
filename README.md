@@ -240,7 +240,7 @@
         - [x] 卡牌分组 `x-of-a-kind-in-a-deck-of-cards`
         - [x] 增减字符串匹配 `di-string-match`
         - [x] 强整数 `powerful-integers`
-        - [ ] 三角形的最大周长 `largest-perimeter-triangle`
+        - [x] 三角形的最大周长 `largest-perimeter-triangle`
         - [ ] 十进制整数的反码 `complement-of-base-10-integer`
         - [ ] 除数博弈 `divisor-game`
         - [ ] 有效的回旋镖 `valid-boomerang`
