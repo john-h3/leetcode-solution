@@ -238,7 +238,7 @@
         - [x] 三维形体的表面积 `surface-area-of-3d-shapes`
         - [x] 最小差值 I `smallest-range-i`
         - [x] 卡牌分组 `x-of-a-kind-in-a-deck-of-cards`
-        - [ ] 增减字符串匹配 `di-string-match`
+        - [x] 增减字符串匹配 `di-string-match`
         - [ ] 强整数 `powerful-integers`
         - [ ] 三角形的最大周长 `largest-perimeter-triangle`
         - [ ] 十进制整数的反码 `complement-of-base-10-integer`
