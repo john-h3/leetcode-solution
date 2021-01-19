@@ -243,7 +243,7 @@
         - [x] 三角形的最大周长 `largest-perimeter-triangle`
         - [x] 十进制整数的反码 `complement-of-base-10-integer`
         - [x] 除数博弈 `divisor-game`
-        - [ ] 有效的回旋镖 `valid-boomerang`
+        - [x] 有效的回旋镖 `valid-boomerang`
         - [ ] 分糖果 II `distribute-candies-to-people`
         - [ ] 一年中的第几天 `day-of-the-year`
         - [ ] 质数排列 `prime-arrangements`
