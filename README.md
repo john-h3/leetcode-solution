@@ -245,7 +245,7 @@
         - [x] 除数博弈 `divisor-game`
         - [x] 有效的回旋镖 `valid-boomerang`
         - [x] 分糖果 II `distribute-candies-to-people`
-        - [ ] 一年中的第几天 `day-of-the-year`
+        - [x] 一年中的第几天 `day-of-the-year`
         - [ ] 质数排列 `prime-arrangements`
         - [ ] 玩筹码 `minimum-cost-to-move-chips-to-the-same-position`
         - [ ] 缀点成线 `check-if-it-is-a-straight-line`
