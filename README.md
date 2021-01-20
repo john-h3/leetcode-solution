@@ -246,7 +246,7 @@
         - [x] 有效的回旋镖 `valid-boomerang`
         - [x] 分糖果 II `distribute-candies-to-people`
         - [x] 一年中的第几天 `day-of-the-year`
-        - [ ] 质数排列 `prime-arrangements`
+        - [x] 质数排列 `prime-arrangements`
         - [ ] 玩筹码 `minimum-cost-to-move-chips-to-the-same-position`
         - [ ] 缀点成线 `check-if-it-is-a-straight-line`
         - [ ] 找出给定方程的正整数解 `find-positive-integer-solution-for-a-given-equation`
