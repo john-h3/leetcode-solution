@@ -253,7 +253,7 @@
         - [x] 整数的各位积和之差 `subtract-the-product-and-sum-of-digits-of-an-integer`
         - [x] 将整数转换为两个无零整数的和 `convert-integer-to-the-sum-of-two-no-zero-integers`
         - [x] 6 和 9 组成的最大数字 `maximum-69-number`
-        - [ ] 好数对的数目 `number-of-good-pairs`
+        - [x] 好数对的数目 `number-of-good-pairs`
         - [ ] 在区间范围内统计奇数数目 `count-odd-numbers-in-an-interval-range`
         - [ ] 打印从1到最大的n位数 `da-yin-cong-1dao-zui-da-de-nwei-shu-lcof`
         - [ ] 阶乘尾数 `factorial-zeros-lcci`
