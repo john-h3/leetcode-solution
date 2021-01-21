@@ -251,7 +251,7 @@
         - [x] 缀点成线 `check-if-it-is-a-straight-line`
         - [x] 找出给定方程的正整数解 `find-positive-integer-solution-for-a-given-equation`
         - [x] 整数的各位积和之差 `subtract-the-product-and-sum-of-digits-of-an-integer`
-        - [ ] 将整数转换为两个无零整数的和 `convert-integer-to-the-sum-of-two-no-zero-integers`
+        - [x] 将整数转换为两个无零整数的和 `convert-integer-to-the-sum-of-two-no-zero-integers`
         - [ ] 6 和 9 组成的最大数字 `maximum-69-number`
         - [ ] 好数对的数目 `number-of-good-pairs`
         - [ ] 在区间范围内统计奇数数目 `count-odd-numbers-in-an-interval-range`
