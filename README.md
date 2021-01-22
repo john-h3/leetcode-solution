@@ -206,7 +206,7 @@
         - [x] 回文排列 `palindrome-permutation-lcci`
         - [x] 字符串压缩 `compress-string-lcci`
         - [x] 字符串轮转 `string-rotation-lcci`
-    - [ ] 数学 `math`
+    - [x] 数学 `math`
         - [x] 整数反转 `reverse-integer`
         - [x] 回文数 `palindrome-number`
         - [x] 罗马数字转整数 `roman-to-integer`
@@ -259,3 +259,49 @@
         - [x] 阶乘尾数 `factorial-zeros-lcci`
         - [x] 最大数值 `maximum-lcci`
         - [x] 消失的数字 `missing-number-lcci`
+    - [ ] 树 `tree`
+        - [ ] 相同的树 `same-tree`
+        - [ ] 对称二叉树 `symmetric-tree`
+        - [ ] 二叉树的最大深度 `maximum-depth-of-binary-tree`
+        - [ ] 二叉树的层序遍历 II `binary-tree-level-order-traversal-ii`
+        - [ ] 将有序数组转换为二叉搜索树 `convert-sorted-array-to-binary-search-tree`
+        - [ ] 平衡二叉树 `balanced-binary-tree`
+        - [ ] 二叉树的最小深度 `minimum-depth-of-binary-tree`
+        - [ ] 路径总和 `path-sum`
+        - [ ] 翻转二叉树 `invert-binary-tree`
+        - [ ] 二叉搜索树的最近公共祖先 `lowest-common-ancestor-of-a-binary-search-tree`
+        - [ ] 二叉树的所有路径 `binary-tree-paths`
+        - [ ] 左叶子之和 `sum-of-left-leaves`
+        - [ ] 二叉搜索树中的众数 `find-mode-in-binary-search-tree`
+        - [ ] 二叉搜索树的最小绝对差 `minimum-absolute-difference-in-bst`
+        - [ ] 二叉树的直径 `diameter-of-binary-tree`
+        - [ ] N 叉树的最大深度 `maximum-depth-of-n-ary-tree`
+        - [ ] 二叉树的坡度 `binary-tree-tilt`
+        - [ ] 另一个树的子树 `subtree-of-another-tree`
+        - [ ] N叉树的前序遍历 `n-ary-tree-preorder-traversal`
+        - [ ] N叉树的后序遍历 `n-ary-tree-postorder-traversal`
+        - [ ] 根据二叉树创建字符串 `construct-string-from-binary-tree`
+        - [ ] 合并二叉树 `merge-two-binary-trees`
+        - [ ] 二叉树的层平均值 `average-of-levels-in-binary-tree`
+        - [ ] 两数之和 IV - 输入 BST `two-sum-iv-input-is-a-bst`
+        - [ ] 修剪二叉搜索树 `trim-a-binary-search-tree`
+        - [ ] 二叉树中第二小的节点 `second-minimum-node-in-a-binary-tree`
+        - [ ] 二叉搜索树中的搜索 `search-in-a-binary-search-tree`
+        - [ ] 二叉搜索树节点最小距离 `minimum-distance-between-bst-nodes`
+        - [ ] 叶子相似的树 `leaf-similar-trees`
+        - [ ] 递增顺序查找树 `increasing-order-search-tree`
+        - [ ] 二叉搜索树的范围和 `range-sum-of-bst`
+        - [ ] 单值二叉树 `univalued-binary-tree`
+        - [ ] 二叉树的堂兄弟节点 `cousins-in-binary-tree`
+        - [ ] 从根到叶的二进制数之和 `sum-of-root-to-leaf-binary-numbers`
+        - [ ] 二叉树的镜像 `er-cha-shu-de-jing-xiang-lcof`
+        - [ ] 对称的二叉树 `dui-cheng-de-er-cha-shu-lcof`
+        - [ ] 从上到下打印二叉树 II `cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof`
+        - [ ] 二叉搜索树的第k大节点 `er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof`
+        - [ ] 二叉树的深度 `er-cha-shu-de-shen-du-lcof`
+        - [ ] 平衡二叉树 `ping-heng-er-cha-shu-lcof`
+        - [ ] 二叉搜索树的最近公共祖先 `er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof`
+        - [ ] 二叉树的最近公共祖先 `er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof`
+        - [ ] 最小高度树 `minimum-height-tree-lcci`
+        - [ ] 检查平衡性 `check-balance-lcci`
+        - [ ] BiNode `binode-lcci`
