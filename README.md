@@ -257,5 +257,5 @@
         - [x] 在区间范围内统计奇数数目 `count-odd-numbers-in-an-interval-range`
         - [x] 打印从1到最大的n位数 `da-yin-cong-1dao-zui-da-de-nwei-shu-lcof`
         - [x] 阶乘尾数 `factorial-zeros-lcci`
-        - [ ] 最大数值 `maximum-lcci`
-        - [ ] 消失的数字 `missing-number-lcci`
+        - [x] 最大数值 `maximum-lcci`
+        - [x] 消失的数字 `missing-number-lcci`
