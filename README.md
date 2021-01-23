@@ -260,7 +260,7 @@
         - [x] 最大数值 `maximum-lcci`
         - [x] 消失的数字 `missing-number-lcci`
     - [ ] 树 `tree`
-        - [ ] 相同的树 `same-tree`
+        - [x] 相同的树 `same-tree`
         - [ ] 对称二叉树 `symmetric-tree`
         - [ ] 二叉树的最大深度 `maximum-depth-of-binary-tree`
         - [ ] 二叉树的层序遍历 II `binary-tree-level-order-traversal-ii`
