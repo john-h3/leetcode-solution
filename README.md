@@ -261,7 +261,7 @@
         - [x] 消失的数字 `missing-number-lcci`
     - [ ] 树 `tree`
         - [x] 相同的树 `same-tree`
-        - [ ] 对称二叉树 `symmetric-tree`
+        - [x] 对称二叉树 `symmetric-tree`
         - [ ] 二叉树的最大深度 `maximum-depth-of-binary-tree`
         - [ ] 二叉树的层序遍历 II `binary-tree-level-order-traversal-ii`
         - [ ] 将有序数组转换为二叉搜索树 `convert-sorted-array-to-binary-search-tree`
