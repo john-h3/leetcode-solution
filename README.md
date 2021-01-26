@@ -268,7 +268,7 @@
         - [x] 平衡二叉树 `balanced-binary-tree`
         - [x] 二叉树的最小深度 `minimum-depth-of-binary-tree`
         - [x] 路径总和 `path-sum`
-        - [ ] 翻转二叉树 `invert-binary-tree`
+        - [x] 翻转二叉树 `invert-binary-tree`
         - [ ] 二叉搜索树的最近公共祖先 `lowest-common-ancestor-of-a-binary-search-tree`
         - [ ] 二叉树的所有路径 `binary-tree-paths`
         - [ ] 左叶子之和 `sum-of-left-leaves`
