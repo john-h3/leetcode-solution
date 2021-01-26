@@ -267,7 +267,7 @@
         - [x] 将有序数组转换为二叉搜索树 `convert-sorted-array-to-binary-search-tree`
         - [x] 平衡二叉树 `balanced-binary-tree`
         - [x] 二叉树的最小深度 `minimum-depth-of-binary-tree`
-        - [ ] 路径总和 `path-sum`
+        - [x] 路径总和 `path-sum`
         - [ ] 翻转二叉树 `invert-binary-tree`
         - [ ] 二叉搜索树的最近公共祖先 `lowest-common-ancestor-of-a-binary-search-tree`
         - [ ] 二叉树的所有路径 `binary-tree-paths`
