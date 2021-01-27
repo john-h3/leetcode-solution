@@ -280,7 +280,7 @@
         - [ ] 另一个树的子树 `subtree-of-another-tree`
         - [ ] N叉树的前序遍历 `n-ary-tree-preorder-traversal`
         - [ ] N叉树的后序遍历 `n-ary-tree-postorder-traversal`
-        - [ ] 根据二叉树创建字符串 `construct-string-from-binary-tree`
+        - [x] 根据二叉树创建字符串 `construct-string-from-binary-tree`
         - [ ] 合并二叉树 `merge-two-binary-trees`
         - [ ] 二叉树的层平均值 `average-of-levels-in-binary-tree`
         - [ ] 两数之和 IV - 输入 BST `two-sum-iv-input-is-a-bst`
