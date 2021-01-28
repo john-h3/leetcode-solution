@@ -277,7 +277,7 @@
         - [x] 二叉树的直径 `diameter-of-binary-tree`
         - [x] N 叉树的最大深度 `maximum-depth-of-n-ary-tree`
         - [x] 二叉树的坡度 `binary-tree-tilt`
-        - [ ] 另一个树的子树 `subtree-of-another-tree`
+        - [x] 另一个树的子树 `subtree-of-another-tree`
         - [ ] N叉树的前序遍历 `n-ary-tree-preorder-traversal`
         - [ ] N叉树的后序遍历 `n-ary-tree-postorder-traversal`
         - [x] 根据二叉树创建字符串 `construct-string-from-binary-tree`
