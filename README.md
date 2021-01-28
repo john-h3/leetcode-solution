@@ -275,7 +275,7 @@
         - [x] 二叉搜索树中的众数 `find-mode-in-binary-search-tree`
         - [x] 二叉搜索树的最小绝对差 `minimum-absolute-difference-in-bst`
         - [x] 二叉树的直径 `diameter-of-binary-tree`
-        - [ ] N 叉树的最大深度 `maximum-depth-of-n-ary-tree`
+        - [x] N 叉树的最大深度 `maximum-depth-of-n-ary-tree`
         - [ ] 二叉树的坡度 `binary-tree-tilt`
         - [ ] 另一个树的子树 `subtree-of-another-tree`
         - [ ] N叉树的前序遍历 `n-ary-tree-preorder-traversal`
