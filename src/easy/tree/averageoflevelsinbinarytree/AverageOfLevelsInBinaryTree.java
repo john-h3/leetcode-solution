@@ -1,9 +1,13 @@
 package easy.tree.averageoflevelsinbinarytree;
 
+import java.util.ArrayList;
+import java.util.List;
+import java.util.stream.Stream;
+
 /**
  * AverageOfLevelsInBinaryTree
  *
- * @author john 2021/1/28
+ * @author john 2021/1/30
  */
 public class AverageOfLevelsInBinaryTree {
   public class TreeNode {
@@ -11,35 +15,32 @@ public class AverageOfLevelsInBinaryTree {
     TreeNode left;
     TreeNode right;
 
-    TreeNode() {}
-
-    TreeNode(int val) {
-      this.val = val;
-    }
-
-    TreeNode(int val, TreeNode left, TreeNode right) {
-      this.val = val;
-      this.left = left;
-      this.right = right;
+    TreeNode(int x) {
+      val = x;
     }
   }
 
   class Solution {
-    private int sum = 0;
-    
-    public int findTilt(TreeNode root) {
-      LRN(root);
-      return sum;
-    }
-    
-    private int LRN(TreeNode root) {
-      if (root != null) {
-        var l = LRN(root.left);
-        var r = LRN(root.right);
-        this.sum += Math.abs(l - r);
-        return root.val + l + r;
+    private List<Double> result = new ArrayList<>();
+
+    public List<Double> averageOfLevels(TreeNode root) {
+      var li = new ArrayList<TreeNode>();
+      li.add(root);
+      while (!li.isEmpty()) {
+        average(li);
+        var tmp = new ArrayList<TreeNode>();
+        li.forEach(
+            e -> {
+              if (e.left != null) tmp.add(e.left);
+              if (e.right != null) tmp.add(e.right);
+            });
+        li = tmp;
       }
-      return 0;
+      return result;
+    }
+
+    private void average(List<TreeNode> nodes) {
+      result.add(nodes.stream().mapToLong(e -> e.val).sum() / (nodes.size() * 1d));
     }
   }
 }
