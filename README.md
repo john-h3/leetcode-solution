@@ -284,8 +284,7 @@
         - [x] 合并二叉树 `merge-two-binary-trees`
         - [x] 二叉树的层平均值 `average-of-levels-in-binary-tree`
         - [x] 两数之和 IV - 输入 BST `two-sum-iv-input-is-a-bst`
-        - [x] 修剪二叉搜索树 `trim-a-binary-search-tree`
-        - [ ] 二叉树中第二小的节点 `second-minimum-node-in-a-binary-tree`
+        - [x] 二叉树中第二小的节点 `second-minimum-node-in-a-binary-tree`
         - [ ] 二叉搜索树中的搜索 `search-in-a-binary-search-tree`
         - [ ] 二叉搜索树节点最小距离 `minimum-distance-between-bst-nodes`
         - [ ] 叶子相似的树 `leaf-similar-trees`
