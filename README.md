@@ -285,7 +285,7 @@
         - [x] 二叉树的层平均值 `average-of-levels-in-binary-tree`
         - [x] 两数之和 IV - 输入 BST `two-sum-iv-input-is-a-bst`
         - [x] 二叉树中第二小的节点 `second-minimum-node-in-a-binary-tree`
-        - [ ] 二叉搜索树中的搜索 `search-in-a-binary-search-tree`
+        - [x] 二叉搜索树中的搜索 `search-in-a-binary-search-tree`
         - [ ] 二叉搜索树节点最小距离 `minimum-distance-between-bst-nodes`
         - [ ] 叶子相似的树 `leaf-similar-trees`
         - [ ] 递增顺序查找树 `increasing-order-search-tree`
