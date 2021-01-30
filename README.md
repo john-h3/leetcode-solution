@@ -287,7 +287,7 @@
         - [x] 二叉树中第二小的节点 `second-minimum-node-in-a-binary-tree`
         - [x] 二叉搜索树中的搜索 `search-in-a-binary-search-tree`
         - [x] 二叉搜索树节点最小距离 `minimum-distance-between-bst-nodes`
-        - [ ] 叶子相似的树 `leaf-similar-trees`
+        - [x] 叶子相似的树 `leaf-similar-trees`
         - [ ] 递增顺序查找树 `increasing-order-search-tree`
         - [ ] 二叉搜索树的范围和 `range-sum-of-bst`
         - [ ] 单值二叉树 `univalued-binary-tree`
