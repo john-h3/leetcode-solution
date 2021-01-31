@@ -290,7 +290,7 @@
         - [x] 叶子相似的树 `leaf-similar-trees`
         - [x] 递增顺序查找树 `increasing-order-search-tree`
         - [x] 二叉搜索树的范围和 `range-sum-of-bst`
-        - [ ] 单值二叉树 `univalued-binary-tree`
+        - [x] 单值二叉树 `univalued-binary-tree`
         - [ ] 二叉树的堂兄弟节点 `cousins-in-binary-tree`
         - [ ] 从根到叶的二进制数之和 `sum-of-root-to-leaf-binary-numbers`
         - [ ] 二叉树的镜像 `er-cha-shu-de-jing-xiang-lcof`
