@@ -289,7 +289,7 @@
         - [x] 二叉搜索树节点最小距离 `minimum-distance-between-bst-nodes`
         - [x] 叶子相似的树 `leaf-similar-trees`
         - [x] 递增顺序查找树 `increasing-order-search-tree`
-        - [ ] 二叉搜索树的范围和 `range-sum-of-bst`
+        - [x] 二叉搜索树的范围和 `range-sum-of-bst`
         - [ ] 单值二叉树 `univalued-binary-tree`
         - [ ] 二叉树的堂兄弟节点 `cousins-in-binary-tree`
         - [ ] 从根到叶的二进制数之和 `sum-of-root-to-leaf-binary-numbers`
