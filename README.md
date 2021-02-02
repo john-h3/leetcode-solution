@@ -294,7 +294,7 @@
         - [x] 二叉树的堂兄弟节点 `cousins-in-binary-tree`
         - [x] 从根到叶的二进制数之和 `sum-of-root-to-leaf-binary-numbers`
         - [x] 二叉树的镜像 `er-cha-shu-de-jing-xiang-lcof`
-        - [ ] 对称的二叉树 `dui-cheng-de-er-cha-shu-lcof`
+        - [x] 对称的二叉树 `dui-cheng-de-er-cha-shu-lcof`
         - [ ] 从上到下打印二叉树 II `cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof`
         - [ ] 二叉搜索树的第k大节点 `er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof`
         - [ ] 二叉树的深度 `er-cha-shu-de-shen-du-lcof`
