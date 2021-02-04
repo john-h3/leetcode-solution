@@ -300,7 +300,7 @@
         - [x] 二叉树的深度 `er-cha-shu-de-shen-du-lcof`
         - [x] 平衡二叉树 `ping-heng-er-cha-shu-lcof`
         - [x] 二叉搜索树的最近公共祖先 `er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof`
-        - [ ] 二叉树的最近公共祖先 `er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof`
+        - [x] 二叉树的最近公共祖先 `er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof`
         - [ ] 最小高度树 `minimum-height-tree-lcci`
         - [ ] 检查平衡性 `check-balance-lcci`
         - [ ] BiNode `binode-lcci`
