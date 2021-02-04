@@ -298,7 +298,7 @@
         - [x] 从上到下打印二叉树 II `cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof`
         - [x] 二叉搜索树的第k大节点 `er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof`
         - [x] 二叉树的深度 `er-cha-shu-de-shen-du-lcof`
-        - [ ] 平衡二叉树 `ping-heng-er-cha-shu-lcof`
+        - [x] 平衡二叉树 `ping-heng-er-cha-shu-lcof`
         - [ ] 二叉搜索树的最近公共祖先 `er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof`
         - [ ] 二叉树的最近公共祖先 `er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof`
         - [ ] 最小高度树 `minimum-height-tree-lcci`
