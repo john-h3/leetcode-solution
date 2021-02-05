@@ -259,7 +259,7 @@
         - [x] 阶乘尾数 `factorial-zeros-lcci`
         - [x] 最大数值 `maximum-lcci`
         - [x] 消失的数字 `missing-number-lcci`
-    - [ ] 树 `tree`
+    - [x] 树 `tree`
         - [x] 相同的树 `same-tree`
         - [x] 对称二叉树 `symmetric-tree`
         - [x] 二叉树的最大深度 `maximum-depth-of-binary-tree`
@@ -304,3 +304,25 @@
         - [x] 最小高度树 `minimum-height-tree-lcci`
         - [x] 检查平衡性 `check-balance-lcci`
         - [x] BiNode `binode-lcci`
+    - [ ] 深度优先搜索 `depth-first-search`
+        - [ ] 相同的树 `same-tree`
+        - [ ] 对称二叉树 `symmetric-tree`
+        - [ ] 二叉树的最大深度 `maximum-depth-of-binary-tree`
+        - [ ] 将有序数组转换为二叉搜索树 `convert-sorted-array-to-binary-search-tree`
+        - [ ] 平衡二叉树 `balanced-binary-tree`
+        - [ ] 二叉树的最小深度 `minimum-depth-of-binary-tree`
+        - [ ] 路径总和 `path-sum`
+        - [ ] 二叉树的所有路径 `binary-tree-paths`
+        - [ ] N 叉树的最大深度 `maximum-depth-of-n-ary-tree`
+        - [ ] 二叉树的坡度 `binary-tree-tilt`
+        - [ ] 员工的重要性 `employee-importance`
+        - [ ] 图像渲染 `flood-fill`
+        - [ ] 二叉搜索树节点最小距离 `minimum-distance-between-bst-nodes`
+        - [ ] 叶子相似的树 `leaf-similar-trees`
+        - [ ] 递增顺序查找树 `increasing-order-search-tree`
+        - [ ] 二叉搜索树的范围和 `range-sum-of-bst`
+        - [ ] 二叉树的深度 `er-cha-shu-de-shen-du-lcof`
+        - [ ] 平衡二叉树 `ping-heng-er-cha-shu-lcof`
+        - [ ] 最小高度树 `minimum-height-tree-lcci`
+        - [ ] 检查平衡性 `check-balance-lcci`
+        - [ ] 颜色填充 `color-fill-lcci`
