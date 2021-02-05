@@ -303,4 +303,4 @@
         - [x] 二叉树的最近公共祖先 `er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof`
         - [x] 最小高度树 `minimum-height-tree-lcci`
         - [x] 检查平衡性 `check-balance-lcci`
-        - [ ] BiNode `binode-lcci`
+        - [x] BiNode `binode-lcci`
