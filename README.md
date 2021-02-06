@@ -309,7 +309,7 @@
         - [x] 对称二叉树 `symmetric-tree`
         - [x] 二叉树的最大深度 `maximum-depth-of-binary-tree`
         - [x] 将有序数组转换为二叉搜索树 `convert-sorted-array-to-binary-search-tree`
-        - [ ] 平衡二叉树 `balanced-binary-tree`
+        - [x] 平衡二叉树 `balanced-binary-tree`
         - [ ] 二叉树的最小深度 `minimum-depth-of-binary-tree`
         - [ ] 路径总和 `path-sum`
         - [ ] 二叉树的所有路径 `binary-tree-paths`
