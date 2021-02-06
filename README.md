@@ -325,4 +325,4 @@
         - [ ] 平衡二叉树 `ping-heng-er-cha-shu-lcof`
         - [ ] 最小高度树 `minimum-height-tree-lcci`
         - [ ] 检查平衡性 `check-balance-lcci`
-        - [ ] 颜色填充 `color-fill-lcci`
+        - [x] 颜色填充 `color-fill-lcci`
