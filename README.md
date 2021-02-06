@@ -316,7 +316,7 @@
         - [ ] N 叉树的最大深度 `maximum-depth-of-n-ary-tree`
         - [ ] 二叉树的坡度 `binary-tree-tilt`
         - [x] 员工的重要性 `employee-importance`
-        - [ ] 图像渲染 `flood-fill`
+        - [x] 图像渲染 `flood-fill`
         - [ ] 二叉搜索树节点最小距离 `minimum-distance-between-bst-nodes`
         - [ ] 叶子相似的树 `leaf-similar-trees`
         - [ ] 递增顺序查找树 `increasing-order-search-tree`
