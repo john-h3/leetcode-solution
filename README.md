@@ -334,7 +334,7 @@
         - [x] 同构字符串 `isomorphic-strings`
         - [ ] 存在重复元素 `contains-duplicate`
         - [ ] 存在重复元素 II `contains-duplicate-ii`
-        - [ ] 有效的字母异位词 `valid-anagram`
+        - [x] 有效的字母异位词 `valid-anagram`
         - [ ] 单词规律 `word-pattern`
         - [ ] 两个数组的交集 `intersection-of-two-arrays`
         - [ ] 两个数组的交集 II `intersection-of-two-arrays-ii`
