@@ -335,7 +335,7 @@
         - [ ] 存在重复元素 `contains-duplicate`
         - [ ] 存在重复元素 II `contains-duplicate-ii`
         - [x] 有效的字母异位词 `valid-anagram`
-        - [ ] 单词规律 `word-pattern`
+        - [x] 单词规律 `word-pattern`
         - [ ] 两个数组的交集 `intersection-of-two-arrays`
         - [ ] 两个数组的交集 II `intersection-of-two-arrays-ii`
         - [ ] 字符串中的第一个唯一字符 `first-unique-character-in-a-string`
