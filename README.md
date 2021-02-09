@@ -341,7 +341,7 @@
         - [ ] 字符串中的第一个唯一字符 `first-unique-character-in-a-string`
         - [x] 找不同 `find-the-difference`
         - [x] 最长回文串 `longest-palindrome`
-        - [ ] 岛屿的周长 `island-perimeter`
+        - [x] 岛屿的周长 `island-perimeter`
         - [ ] 键盘行 `keyboard-row`
         - [ ] 分糖果 `distribute-candies`
         - [ ] 最长和谐子序列 `longest-harmonious-subsequence`
