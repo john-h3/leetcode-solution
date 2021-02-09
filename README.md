@@ -340,7 +340,7 @@
         - [x] 两个数组的交集 II `intersection-of-two-arrays-ii`
         - [ ] 字符串中的第一个唯一字符 `first-unique-character-in-a-string`
         - [x] 找不同 `find-the-difference`
-        - [ ] 最长回文串 `longest-palindrome`
+        - [x] 最长回文串 `longest-palindrome`
         - [ ] 岛屿的周长 `island-perimeter`
         - [ ] 键盘行 `keyboard-row`
         - [ ] 分糖果 `distribute-candies`
