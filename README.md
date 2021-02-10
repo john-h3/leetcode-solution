@@ -344,7 +344,7 @@
         - [x] 键盘行 `keyboard-row`
         - [x] 分糖果 `distribute-candies`
         - [x] 最长和谐子序列 `longest-harmonious-subsequence`
-        - [ ] 两个列表的最小索引总和 `minimum-index-sum-of-two-lists`
+        - [x] 两个列表的最小索引总和 `minimum-index-sum-of-two-lists`
         - [ ] 错误的集合 `set-mismatch`
         - [ ] 员工的重要性 `employee-importance`
         - [ ] 设计哈希集合 `design-hashset`
