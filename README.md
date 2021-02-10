@@ -347,7 +347,7 @@
         - [x] 两个列表的最小索引总和 `minimum-index-sum-of-two-lists`
         - [ ] 错误的集合 `set-mismatch`
         - [ ] 员工的重要性 `employee-importance`
-        - [ ] 设计哈希集合 `design-hashset`
+        - [x] 设计哈希集合 `design-hashset`
         - [ ] 设计哈希映射 `design-hashmap`
         - [ ] 词典中最长的单词 `longest-word-in-dictionary`
         - [ ] 最短补全词 `shortest-completing-word`
