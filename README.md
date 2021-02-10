@@ -341,7 +341,7 @@
         - [x] 找不同 `find-the-difference`
         - [x] 最长回文串 `longest-palindrome`
         - [x] 岛屿的周长 `island-perimeter`
-        - [ ] 键盘行 `keyboard-row`
+        - [x] 键盘行 `keyboard-row`
         - [ ] 分糖果 `distribute-candies`
         - [ ] 最长和谐子序列 `longest-harmonious-subsequence`
         - [ ] 两个列表的最小索引总和 `minimum-index-sum-of-two-lists`
