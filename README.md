@@ -320,7 +320,7 @@
         - [x] 叶子相似的树 `leaf-similar-trees`
         - [x] 递增顺序查找树 `increasing-order-search-tree`
         - [x] 二叉搜索树的范围和 `range-sum-of-bst`
-        - [ ] 二叉树的深度 `er-cha-shu-de-shen-du-lcof`
+        - [x] 二叉树的深度 `er-cha-shu-de-shen-du-lcof`
         - [ ] 平衡二叉树 `ping-heng-er-cha-shu-lcof`
         - [ ] 最小高度树 `minimum-height-tree-lcci`
         - [ ] 检查平衡性 `check-balance-lcci`
