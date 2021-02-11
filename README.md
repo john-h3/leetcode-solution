@@ -11,10 +11,9 @@
 
 - 为了尽可能的延长项目的生命，准备按照 `tag` 的顺序来刷题，并且难度从 `easy` 开始，当所有 `tag` 的 `easy` 难度都完成时，再把难度提升。
 - ~~尽量使用纯文本的编辑器进行代码的编写，推荐直接在页面上完成代码。~~ 离不开 idea 了
+- 有些 `tag` 下会有之前做过的题，考虑到效率所以优先做未做过的题，重复的题在空闲时可以再做一遍
 
 ### 目前安排
-
-按照定好的规则，最近的安排是
 
 - [ ] 简单 `easy`
     - [x] 数组 `array`
@@ -326,3 +325,47 @@
         - [ ] 最小高度树 `minimum-height-tree-lcci`
         - [ ] 检查平衡性 `check-balance-lcci`
         - [x] 颜色填充 `color-fill-lcci`
+    - [ ] 哈希表 `hash-table`
+        - [ ] 两数之和 `two-sum`
+        - [x] 只出现一次的数字 `single-number`
+        - [ ] 快乐数 `happy-number`
+        - [ ] 计数质数 `count-primes`
+        - [x] 同构字符串 `isomorphic-strings`
+        - [ ] 存在重复元素 `contains-duplicate`
+        - [ ] 存在重复元素 II `contains-duplicate-ii`
+        - [x] 有效的字母异位词 `valid-anagram`
+        - [x] 单词规律 `word-pattern`
+        - [x] 两个数组的交集 `intersection-of-two-arrays`
+        - [x] 两个数组的交集 II `intersection-of-two-arrays-ii`
+        - [ ] 字符串中的第一个唯一字符 `first-unique-character-in-a-string`
+        - [x] 找不同 `find-the-difference`
+        - [x] 最长回文串 `longest-palindrome`
+        - [x] 岛屿的周长 `island-perimeter`
+        - [x] 键盘行 `keyboard-row`
+        - [x] 分糖果 `distribute-candies`
+        - [x] 最长和谐子序列 `longest-harmonious-subsequence`
+        - [x] 两个列表的最小索引总和 `minimum-index-sum-of-two-lists`
+        - [ ] 错误的集合 `set-mismatch`
+        - [ ] 员工的重要性 `employee-importance`
+        - [x] 设计哈希集合 `design-hashset`
+        - [x] 设计哈希映射 `design-hashmap`
+        - [ ] 词典中最长的单词 `longest-word-in-dictionary`
+        - [ ] 最短补全词 `shortest-completing-word`
+        - [ ] 宝石与石头 `jewels-and-stones`
+        - [ ] 子域名访问计数 `subdomain-visit-count`
+        - [ ] 两句话中的不常见单词 `uncommon-words-from-two-sentences`
+        - [ ] 验证外星语词典 `verifying-an-alien-dictionary`
+        - [ ] 重复 N 次的元素 `n-repeated-element-in-size-2n-array`
+        - [ ] 查找常用字符 `find-common-characters`
+        - [ ] Bigram 分词 `occurrences-after-bigram`
+        - [ ] 拼写单词 `find-words-that-can-be-formed-by-characters`
+        - [ ] “气球” 的最大数量 `maximum-number-of-balloons`
+        - [ ] 独一无二的出现次数 `unique-number-of-occurrences`
+        - [ ] 有多少小于当前数字的数字 `how-many-numbers-are-smaller-than-the-current-number`
+        - [ ] 好数对的数目 `number-of-good-pairs`
+        - [ ] 第 k 个缺失的正整数 `kth-missing-positive-number`
+        - [ ] 能否连接形成数组 `check-array-formation-through-concatenation`
+        - [ ] 唯一元素的和 `sum-of-unique-elements`
+        - [ ] 数组中重复的数字 `shu-zu-zhong-zhong-fu-de-shu-zi-lcof`
+        - [ ] 第一个只出现一次的字符 `di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof`
+        - [ ] 回文排列 `palindrome-permutation-lcci`
