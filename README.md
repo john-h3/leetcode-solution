@@ -317,7 +317,7 @@
         - [x] 员工的重要性 `employee-importance`
         - [x] 图像渲染 `flood-fill`
         - [x] 二叉搜索树节点最小距离 `minimum-distance-between-bst-nodes`
-        - [ ] 叶子相似的树 `leaf-similar-trees`
+        - [x] 叶子相似的树 `leaf-similar-trees`
         - [ ] 递增顺序查找树 `increasing-order-search-tree`
         - [ ] 二叉搜索树的范围和 `range-sum-of-bst`
         - [ ] 二叉树的深度 `er-cha-shu-de-shen-du-lcof`
