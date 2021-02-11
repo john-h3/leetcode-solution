@@ -318,7 +318,7 @@
         - [x] 图像渲染 `flood-fill`
         - [x] 二叉搜索树节点最小距离 `minimum-distance-between-bst-nodes`
         - [x] 叶子相似的树 `leaf-similar-trees`
-        - [ ] 递增顺序查找树 `increasing-order-search-tree`
+        - [x] 递增顺序查找树 `increasing-order-search-tree`
         - [ ] 二叉搜索树的范围和 `range-sum-of-bst`
         - [ ] 二叉树的深度 `er-cha-shu-de-shen-du-lcof`
         - [ ] 平衡二叉树 `ping-heng-er-cha-shu-lcof`
