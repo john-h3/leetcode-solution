@@ -313,7 +313,7 @@
         - [x] 路径总和 `path-sum`
         - [x] 二叉树的所有路径 `binary-tree-paths`
         - [x] N 叉树的最大深度 `maximum-depth-of-n-ary-tree`
-        - [ ] 二叉树的坡度 `binary-tree-tilt`
+        - [x] 二叉树的坡度 `binary-tree-tilt`
         - [x] 员工的重要性 `employee-importance`
         - [x] 图像渲染 `flood-fill`
         - [ ] 二叉搜索树节点最小距离 `minimum-distance-between-bst-nodes`
