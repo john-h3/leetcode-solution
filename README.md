@@ -349,7 +349,7 @@
         - [ ] 员工的重要性 `employee-importance`
         - [x] 设计哈希集合 `design-hashset`
         - [x] 设计哈希映射 `design-hashmap`
-        - [ ] 词典中最长的单词 `longest-word-in-dictionary`
+        - [x] 词典中最长的单词 `longest-word-in-dictionary`
         - [ ] 最短补全词 `shortest-completing-word`
         - [ ] 宝石与石头 `jewels-and-stones`
         - [ ] 子域名访问计数 `subdomain-visit-count`
