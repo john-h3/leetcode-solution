@@ -326,7 +326,7 @@
         - [x] 检查平衡性 `check-balance-lcci`
         - [x] 颜色填充 `color-fill-lcci`
     - [ ] 哈希表 `hash-table`
-        - [ ] 两数之和 `two-sum`
+        - [x] 两数之和 `two-sum`
         - [x] 只出现一次的数字 `single-number`
         - [ ] 快乐数 `happy-number`
         - [ ] 计数质数 `count-primes`
