@@ -321,8 +321,8 @@
         - [x] 递增顺序查找树 `increasing-order-search-tree`
         - [x] 二叉搜索树的范围和 `range-sum-of-bst`
         - [x] 二叉树的深度 `er-cha-shu-de-shen-du-lcof`
-        - [ ] 平衡二叉树 `ping-heng-er-cha-shu-lcof`
-        - [ ] 最小高度树 `minimum-height-tree-lcci`
+        - [x] 平衡二叉树 `ping-heng-er-cha-shu-lcof`
+        - [x] 最小高度树 `minimum-height-tree-lcci`
         - [ ] 检查平衡性 `check-balance-lcci`
         - [x] 颜色填充 `color-fill-lcci`
     - [ ] 哈希表 `hash-table`
