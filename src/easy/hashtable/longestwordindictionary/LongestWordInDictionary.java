@@ -1,4 +1,4 @@
-package easy.depthfirstsearch.longestwordindictionary;
+package easy.hashtable.longestwordindictionary;
 
 import java.util.Arrays;
 import java.util.Comparator;

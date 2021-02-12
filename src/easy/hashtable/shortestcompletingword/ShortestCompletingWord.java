@@ -1,4 +1,4 @@
-package easy.depthfirstsearch.shortestcompletingword;
+package easy.hashtable.shortestcompletingword;
 /**
  * ShortestCompletingWord
  *
