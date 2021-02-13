@@ -354,7 +354,7 @@
         - [ ] 宝石与石头 `jewels-and-stones`
         - [x] 子域名访问计数 `subdomain-visit-count`
         - [x] 两句话中的不常见单词 `uncommon-words-from-two-sentences`
-        - [ ] 验证外星语词典 `verifying-an-alien-dictionary`
+        - [x] 验证外星语词典 `verifying-an-alien-dictionary`
         - [ ] 重复 N 次的元素 `n-repeated-element-in-size-2n-array`
         - [ ] 查找常用字符 `find-common-characters`
         - [ ] Bigram 分词 `occurrences-after-bigram`
