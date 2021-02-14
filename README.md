@@ -360,7 +360,7 @@
         - [x] Bigram 分词 `occurrences-after-bigram`
         - [ ] 拼写单词 `find-words-that-can-be-formed-by-characters`
         - [ ] “气球” 的最大数量 `maximum-number-of-balloons`
-        - [ ] 独一无二的出现次数 `unique-number-of-occurrences`
+        - [x] 独一无二的出现次数 `unique-number-of-occurrences`
         - [ ] 有多少小于当前数字的数字 `how-many-numbers-are-smaller-than-the-current-number`
         - [ ] 好数对的数目 `number-of-good-pairs`
         - [ ] 第 k 个缺失的正整数 `kth-missing-positive-number`
