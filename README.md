@@ -357,7 +357,7 @@
         - [x] 验证外星语词典 `verifying-an-alien-dictionary`
         - [x] 重复 N 次的元素 `n-repeated-element-in-size-2n-array`
         - [ ] 查找常用字符 `find-common-characters`
-        - [ ] Bigram 分词 `occurrences-after-bigram`
+        - [x] Bigram 分词 `occurrences-after-bigram`
         - [ ] 拼写单词 `find-words-that-can-be-formed-by-characters`
         - [ ] “气球” 的最大数量 `maximum-number-of-balloons`
         - [ ] 独一无二的出现次数 `unique-number-of-occurrences`
