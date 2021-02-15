@@ -367,5 +367,5 @@
         - [x] 能否连接形成数组 `check-array-formation-through-concatenation`
         - [x] 唯一元素的和 `sum-of-unique-elements`
         - [ ] 数组中重复的数字 `shu-zu-zhong-zhong-fu-de-shu-zi-lcof`
-        - [ ] 第一个只出现一次的字符 `di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof`
+        - [x] 第一个只出现一次的字符 `di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof`
         - [ ] 回文排列 `palindrome-permutation-lcci`
