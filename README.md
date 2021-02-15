@@ -364,7 +364,7 @@
         - [ ] 有多少小于当前数字的数字 `how-many-numbers-are-smaller-than-the-current-number`
         - [ ] 好数对的数目 `number-of-good-pairs`
         - [x] 第 k 个缺失的正整数 `kth-missing-positive-number`
-        - [ ] 能否连接形成数组 `check-array-formation-through-concatenation`
+        - [x] 能否连接形成数组 `check-array-formation-through-concatenation`
         - [ ] 唯一元素的和 `sum-of-unique-elements`
         - [ ] 数组中重复的数字 `shu-zu-zhong-zhong-fu-de-shu-zi-lcof`
         - [ ] 第一个只出现一次的字符 `di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof`
