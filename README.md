@@ -372,7 +372,7 @@
     - [ ] 贪心算法 `greedy`
         - [ ] 买卖股票的最佳时机 II `best-time-to-buy-and-sell-stock-ii`
         - [ ] 判断子序列 `is-subsequence`
-        - [ ] 分发饼干 `assign-cookies`
+        - [x] 分发饼干 `assign-cookies`
         - [ ] 种花问题 `can-place-flowers`
         - [ ] 柠檬水找零 `lemonade-change`
         - [ ] 模拟行走机器人 `walking-robot-simulation`
