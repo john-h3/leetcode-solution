@@ -369,3 +369,22 @@
         - [ ] 数组中重复的数字 `shu-zu-zhong-zhong-fu-de-shu-zi-lcof`
         - [x] 第一个只出现一次的字符 `di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof`
         - [ ] 回文排列 `palindrome-permutation-lcci`
+    - [ ] 贪心算法 `greedy`
+        - [ ] 买卖股票的最佳时机 II `best-time-to-buy-and-sell-stock-ii`
+        - [ ] 判断子序列 `is-subsequence`
+        - [ ] 分发饼干 `assign-cookies`
+        - [ ] 种花问题 `can-place-flowers`
+        - [ ] 柠檬水找零 `lemonade-change`
+        - [ ] 模拟行走机器人 `walking-robot-simulation`
+        - [ ] 删列造序 `delete-columns-to-make-sorted`
+        - [ ] K 次取反后最大化的数组和 `maximize-sum-of-array-after-k-negations`
+        - [ ] 最后一块石头的重量 `last-stone-weight`
+        - [ ] 玩筹码 `minimum-cost-to-move-chips-to-the-same-position`
+        - [ ] 分割平衡字符串 `split-a-string-in-balanced-strings`
+        - [ ] 非递增顺序的最小子序列 `minimum-subsequence-in-non-increasing-order`
+        - [ ] 换酒问题 `water-bottles`
+        - [ ] 卡车上的最大单元数 `maximum-units-on-a-truck`
+        - [ ] 计算力扣银行的钱 `calculate-money-in-leetcode-bank`
+        - [ ] 可以形成最大正方形的矩形数目 `number-of-rectangles-that-can-form-the-largest-square`
+        - [ ] 替换隐藏数字得到的最晚时间 `latest-time-by-replacing-hidden-digits`
+        - [ ] 生成交替二进制字符串的最少操作数 `minimum-changes-to-make-alternating-binary-string`
