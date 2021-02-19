@@ -377,7 +377,7 @@
         - [x] 柠檬水找零 `lemonade-change`
         - [x] 模拟行走机器人 `walking-robot-simulation`
         - [x] 删列造序 `delete-columns-to-make-sorted`
-        - [ ] K 次取反后最大化的数组和 `maximize-sum-of-array-after-k-negations`
+        - [x] K 次取反后最大化的数组和 `maximize-sum-of-array-after-k-negations`
         - [ ] 最后一块石头的重量 `last-stone-weight`
         - [ ] 玩筹码 `minimum-cost-to-move-chips-to-the-same-position`
         - [ ] 分割平衡字符串 `split-a-string-in-balanced-strings`
