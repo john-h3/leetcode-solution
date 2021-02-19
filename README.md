@@ -376,7 +376,7 @@
         - [ ] 种花问题 `can-place-flowers`
         - [x] 柠檬水找零 `lemonade-change`
         - [x] 模拟行走机器人 `walking-robot-simulation`
-        - [ ] 删列造序 `delete-columns-to-make-sorted`
+        - [x] 删列造序 `delete-columns-to-make-sorted`
         - [ ] K 次取反后最大化的数组和 `maximize-sum-of-array-after-k-negations`
         - [ ] 最后一块石头的重量 `last-stone-weight`
         - [ ] 玩筹码 `minimum-cost-to-move-chips-to-the-same-position`
