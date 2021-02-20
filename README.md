@@ -382,7 +382,7 @@
         - [ ] 玩筹码 `minimum-cost-to-move-chips-to-the-same-position`
         - [ ] 分割平衡字符串 `split-a-string-in-balanced-strings`
         - [x] 非递增顺序的最小子序列 `minimum-subsequence-in-non-increasing-order`
-        - [ ] 换酒问题 `water-bottles`
+        - [x] 换酒问题 `water-bottles`
         - [ ] 卡车上的最大单元数 `maximum-units-on-a-truck`
         - [ ] 计算力扣银行的钱 `calculate-money-in-leetcode-bank`
         - [ ] 可以形成最大正方形的矩形数目 `number-of-rectangles-that-can-form-the-largest-square`
