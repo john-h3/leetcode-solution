@@ -387,7 +387,7 @@
         - [x] 计算力扣银行的钱 `calculate-money-in-leetcode-bank`
         - [ ] 可以形成最大正方形的矩形数目 `number-of-rectangles-that-can-form-the-largest-square`
         - [ ] 替换隐藏数字得到的最晚时间 `latest-time-by-replacing-hidden-digits`
-        - [ ] 生成交替二进制字符串的最少操作数 `minimum-changes-to-make-alternating-binary-string`
+        - [x] 生成交替二进制字符串的最少操作数 `minimum-changes-to-make-alternating-binary-string`
     - [ ] 二分查找 `binary-search`
         - [ ] 搜索插入位置 `search-insert-position`
         - [ ] x 的平方根 `sqrtx`
