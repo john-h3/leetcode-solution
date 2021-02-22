@@ -388,3 +388,24 @@
         - [ ] 可以形成最大正方形的矩形数目 `number-of-rectangles-that-can-form-the-largest-square`
         - [ ] 替换隐藏数字得到的最晚时间 `latest-time-by-replacing-hidden-digits`
         - [ ] 生成交替二进制字符串的最少操作数 `minimum-changes-to-make-alternating-binary-string`
+    - [ ] 二分查找 `binary-search`
+        - [ ] 搜索插入位置 `search-insert-position`
+        - [ ] x 的平方根 `sqrtx`
+        - [ ] 两数之和 II - 输入有序数组 `two-sum-ii-input-array-is-sorted`
+        - [ ] 第一个错误的版本 `first-bad-version`
+        - [ ] 两个数组的交集 `intersection-of-two-arrays`
+        - [ ] 两个数组的交集 II `intersection-of-two-arrays-ii`
+        - [ ] 有效的完全平方数 `valid-perfect-square`
+        - [ ] 猜数字大小 `guess-number-higher-or-lower`
+        - [ ] 判断子序列 `is-subsequence`
+        - [ ] 排列硬币 `arranging-coins`
+        - [ ] 二分查找 `binary-search`
+        - [ ] 寻找比目标字母大的最小字母 `find-smallest-letter-greater-than-target`
+        - [ ] 山脉数组的峰顶索引 `peak-index-in-a-mountain-array`
+        - [ ] 矩阵中战斗力最弱的 K 行 `the-k-weakest-rows-in-a-matrix`
+        - [ ] 统计有序矩阵中的负数 `count-negative-numbers-in-a-sorted-matrix`
+        - [ ] 旋转数组的最小数字 `xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof`
+        - [ ] 在排序数组中查找数字 I `zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof`
+        - [ ] 0～n-1中缺失的数字 `que-shi-de-shu-zi-lcof`
+        - [ ] 魔术索引 `magic-index-lcci`
+        - [ ] 稀疏数组搜索 `sparse-array-search-lcci`
