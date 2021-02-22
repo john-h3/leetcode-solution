@@ -392,7 +392,7 @@
         - [ ] 搜索插入位置 `search-insert-position`
         - [ ] x 的平方根 `sqrtx`
         - [ ] 两数之和 II - 输入有序数组 `two-sum-ii-input-array-is-sorted`
-        - [ ] 第一个错误的版本 `first-bad-version`
+        - [x] 第一个错误的版本 `first-bad-version`
         - [ ] 两个数组的交集 `intersection-of-two-arrays`
         - [ ] 两个数组的交集 II `intersection-of-two-arrays-ii`
         - [ ] 有效的完全平方数 `valid-perfect-square`
