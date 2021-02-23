@@ -396,7 +396,7 @@
         - [ ] 两个数组的交集 `intersection-of-two-arrays`
         - [ ] 两个数组的交集 II `intersection-of-two-arrays-ii`
         - [ ] 有效的完全平方数 `valid-perfect-square`
-        - [ ] 猜数字大小 `guess-number-higher-or-lower`
+        - [x] 猜数字大小 `guess-number-higher-or-lower`
         - [ ] 判断子序列 `is-subsequence`
         - [ ] 排列硬币 `arranging-coins`
         - [ ] 二分查找 `binary-search`
