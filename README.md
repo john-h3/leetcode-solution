@@ -399,7 +399,7 @@
         - [x] 猜数字大小 `guess-number-higher-or-lower`
         - [ ] 判断子序列 `is-subsequence`
         - [ ] 排列硬币 `arranging-coins`
-        - [ ] 二分查找 `binary-search`
+        - [x] 二分查找 `binary-search`
         - [ ] 寻找比目标字母大的最小字母 `find-smallest-letter-greater-than-target`
         - [ ] 山脉数组的峰顶索引 `peak-index-in-a-mountain-array`
         - [ ] 矩阵中战斗力最弱的 K 行 `the-k-weakest-rows-in-a-matrix`
