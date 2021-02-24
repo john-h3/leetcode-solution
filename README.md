@@ -401,7 +401,7 @@
         - [ ] 排列硬币 `arranging-coins`
         - [x] 二分查找 `binary-search`
         - [x] 寻找比目标字母大的最小字母 `find-smallest-letter-greater-than-target`
-        - [ ] 山脉数组的峰顶索引 `peak-index-in-a-mountain-array`
+        - [x] 山脉数组的峰顶索引 `peak-index-in-a-mountain-array`
         - [ ] 矩阵中战斗力最弱的 K 行 `the-k-weakest-rows-in-a-matrix`
         - [ ] 统计有序矩阵中的负数 `count-negative-numbers-in-a-sorted-matrix`
         - [ ] 旋转数组的最小数字 `xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof`
