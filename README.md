@@ -422,7 +422,7 @@
         - [ ] 实现 strStr() `implement-strstr`
         - [ ] 合并两个有序数组 `merge-sorted-array`
         - [ ] 验证回文串 `valid-palindrome`
-        - [ ] 环形链表 `linked-list-cycle`
+        - [x] 环形链表 `linked-list-cycle`
         - [ ] 两数之和 II - 输入有序数组 `two-sum-ii-input-array-is-sorted`
         - [ ] 回文链表 `palindrome-linked-list`
         - [ ] 移动零 `move-zeroes`
