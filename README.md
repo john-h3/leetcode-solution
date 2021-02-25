@@ -408,7 +408,7 @@
         - [ ] 在排序数组中查找数字 I `zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof`
         - [ ] 0～n-1中缺失的数字 `que-shi-de-shu-zi-lcof`
         - [ ] 魔术索引 `magic-index-lcci`
-        - [ ] 稀疏数组搜索 `sparse-array-search-lcci`
+        - [x] 稀疏数组搜索 `sparse-array-search-lcci`
     - [ ] 广度优先搜索 `breadth-first-search`
         - [ ] 对称二叉树 `symmetric-tree`
         - [ ] 二叉树的最小深度 `minimum-depth-of-binary-tree`
