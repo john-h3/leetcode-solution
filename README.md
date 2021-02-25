@@ -404,7 +404,7 @@
         - [x] 山脉数组的峰顶索引 `peak-index-in-a-mountain-array`
         - [ ] 矩阵中战斗力最弱的 K 行 `the-k-weakest-rows-in-a-matrix`
         - [ ] 统计有序矩阵中的负数 `count-negative-numbers-in-a-sorted-matrix`
-        - [ ] 旋转数组的最小数字 `xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof`
+        - [x] 旋转数组的最小数字 `xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof`
         - [ ] 在排序数组中查找数字 I `zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof`
         - [ ] 0～n-1中缺失的数字 `que-shi-de-shu-zi-lcof`
         - [ ] 魔术索引 `magic-index-lcci`
