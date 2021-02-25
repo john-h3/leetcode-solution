@@ -409,3 +409,30 @@
         - [ ] 0～n-1中缺失的数字 `que-shi-de-shu-zi-lcof`
         - [ ] 魔术索引 `magic-index-lcci`
         - [ ] 稀疏数组搜索 `sparse-array-search-lcci`
+    - [ ] 广度优先搜索 `breadth-first-search`
+        - [ ] 对称二叉树 `symmetric-tree`
+        - [ ] 二叉树的最小深度 `minimum-depth-of-binary-tree`
+        - [ ] N 叉树的最大深度 `maximum-depth-of-n-ary-tree`
+        - [ ] 员工的重要性 `employee-importance`
+        - [ ] 二叉树的堂兄弟节点 `cousins-in-binary-tree`
+        - [ ] 从上到下打印二叉树 II `cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof`
+    - [ ] 双指针 `two-pointers`
+        - [ ] 环形链表 `linked-list-cycle`
+        - [ ] 验证回文串 `valid-palindrome`
+        - [ ] 合并两个有序数组 `merge-sorted-array`
+        - [ ] 反转字符串 `reverse-string`
+        - [ ] 删除排序数组中的重复项 `remove-duplicates-from-sorted-array`
+        - [ ] 比较含退格的字符串 `backspace-string-compare`
+        - [ ] 长按键入 `long-pressed-name`
+        - [ ] 回文链表 `palindrome-linked-list`
+        - [ ] 合并排序的数组 `sorted-merge-lcci`
+        - [ ] 实现 strStr() `implement-strstr`
+        - [ ] 返回倒数第 k 个节点 `kth-node-from-end-of-list-lcci`
+        - [ ] 链表中倒数第k个节点 `lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof`
+        - [ ] 两数之和 II - 输入有序数组 `two-sum-ii-input-array-is-sorted`
+        - [ ] 两个数组的交集 II `intersection-of-two-arrays-ii`
+        - [ ] 反转字符串中的元音字母 `reverse-vowels-of-a-string`
+        - [ ] 有序数组的平方 `squares-of-a-sorted-array`
+        - [ ] 移除元素 `remove-element`
+        - [ ] 移动零 `move-zeroes`
+        - [ ] 两个数组的交集 `intersection-of-two-arrays`
