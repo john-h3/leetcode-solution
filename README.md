@@ -424,7 +424,7 @@
         - [ ] 验证回文串 `valid-palindrome`
         - [x] 环形链表 `linked-list-cycle`
         - [ ] 两数之和 II - 输入有序数组 `two-sum-ii-input-array-is-sorted`
-        - [ ] 回文链表 `palindrome-linked-list`
+        - [x] 回文链表 `palindrome-linked-list`
         - [ ] 移动零 `move-zeroes`
         - [ ] 反转字符串 `reverse-string`
         - [ ] 反转字符串中的元音字母 `reverse-vowels-of-a-string`
