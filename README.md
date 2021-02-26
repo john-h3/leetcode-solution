@@ -436,3 +436,20 @@
         - [x] 链表中倒数第k个节点 `lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof`
         - [x] 返回倒数第 k 个节点 `kth-node-from-end-of-list-lcci`
         - [ ] 合并排序的数组 `sorted-merge-lcci`
+    - [ ] 排序 `sort`
+        - [ ] 有效的字母异位词 `valid-anagram`
+        - [ ] 两个数组的交集 `intersection-of-two-arrays`
+        - [ ] 两个数组的交集 II `intersection-of-two-arrays-ii`
+        - [ ] 按奇偶排序数组 II `sort-array-by-parity-ii`
+        - [ ] 三角形的最大周长 `largest-perimeter-triangle`
+        - [ ] 距离顺序排列矩阵单元格 `matrix-cells-in-distance-order`
+        - [ ] 数组的相对排序 `relative-sort-array`
+        - [ ] 根据数字二进制下 1 的数目排序 `sort-integers-by-the-number-of-1-bits`
+        - [ ] 上升下降字符串 `increasing-decreasing-string`
+        - [ ] 非递增顺序的最小子序列 `minimum-subsequence-in-non-increasing-order`
+        - [ ] 去掉最低工资和最高工资后的工资平均值 `average-salary-excluding-the-minimum-and-maximum-salary`
+        - [ ] 判断能否形成等差数列 `can-make-arithmetic-progression-from-sequence`
+        - [ ] 重新排列字符串 `shuffle-string`
+        - [ ] 按照频率将数组升序排序 `sort-array-by-increasing-frequency`
+        - [ ] 能否连接形成数组 `check-array-formation-through-concatenation`
+        - [ ] 卡车上的最大单元数 `maximum-units-on-a-truck`
