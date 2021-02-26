@@ -433,6 +433,6 @@
         - [ ] 比较含退格的字符串 `backspace-string-compare`
         - [ ] 长按键入 `long-pressed-name`
         - [ ] 有序数组的平方 `squares-of-a-sorted-array`
-        - [ ] 链表中倒数第k个节点 `lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof`
+        - [x] 链表中倒数第k个节点 `lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof`
         - [ ] 返回倒数第 k 个节点 `kth-node-from-end-of-list-lcci`
         - [ ] 合并排序的数组 `sorted-merge-lcci`
