@@ -444,7 +444,7 @@
         - [ ] 三角形的最大周长 `largest-perimeter-triangle`
         - [x] 距离顺序排列矩阵单元格 `matrix-cells-in-distance-order`
         - [ ] 数组的相对排序 `relative-sort-array`
-        - [ ] 根据数字二进制下 1 的数目排序 `sort-integers-by-the-number-of-1-bits`
+        - [x] 根据数字二进制下 1 的数目排序 `sort-integers-by-the-number-of-1-bits`
         - [ ] 上升下降字符串 `increasing-decreasing-string`
         - [ ] 非递增顺序的最小子序列 `minimum-subsequence-in-non-increasing-order`
         - [ ] 去掉最低工资和最高工资后的工资平均值 `average-salary-excluding-the-minimum-and-maximum-salary`
