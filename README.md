@@ -442,7 +442,7 @@
         - [ ] 两个数组的交集 II `intersection-of-two-arrays-ii`
         - [ ] 按奇偶排序数组 II `sort-array-by-parity-ii`
         - [ ] 三角形的最大周长 `largest-perimeter-triangle`
-        - [ ] 距离顺序排列矩阵单元格 `matrix-cells-in-distance-order`
+        - [x] 距离顺序排列矩阵单元格 `matrix-cells-in-distance-order`
         - [ ] 数组的相对排序 `relative-sort-array`
         - [ ] 根据数字二进制下 1 的数目排序 `sort-integers-by-the-number-of-1-bits`
         - [ ] 上升下降字符串 `increasing-decreasing-string`
