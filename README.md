@@ -453,3 +453,19 @@
         - [ ] 按照频率将数组升序排序 `sort-array-by-increasing-frequency`
         - [ ] 能否连接形成数组 `check-array-formation-through-concatenation`
         - [ ] 卡车上的最大单元数 `maximum-units-on-a-truck`
+    - [ ] 回溯算法 `backtracking`
+        - [ ] 二进制手表 `binary-watch`
+        - [ ] 比赛中的配对次数 `count-of-matches-in-tournament`
+    - [ ] 设计 `design`
+        - [ ] 最小栈 `min-stack`
+        - [ ] 用队列实现栈 `implement-stack-using-queues`
+        - [ ] 用栈实现队列 `implement-queue-using-stacks`
+        - [ ] 数据流中的第 K 大元素 `kth-largest-element-in-a-stream`
+        - [ ] 设计哈希集合 `design-hashset`
+        - [ ] 设计哈希映射 `design-hashmap`
+        - [ ] 设计停车系统 `design-parking-system`
+        - [ ] 设计有序流 `design-an-ordered-stream`
+        - [ ] 用两个栈实现队列 `yong-liang-ge-zhan-shi-xian-dui-lie-lcof`
+        - [ ] 包含min函数的栈 `bao-han-minhan-shu-de-zhan-lcof`
+        - [ ] 三合一 `three-in-one-lcci`
+        - [ ] 动物收容所 `animal-shelter-lcci`
