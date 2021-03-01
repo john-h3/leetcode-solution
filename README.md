@@ -449,7 +449,7 @@
         - [ ] 非递增顺序的最小子序列 `minimum-subsequence-in-non-increasing-order`
         - [ ] 去掉最低工资和最高工资后的工资平均值 `average-salary-excluding-the-minimum-and-maximum-salary`
         - [ ] 判断能否形成等差数列 `can-make-arithmetic-progression-from-sequence`
-        - [ ] 重新排列字符串 `shuffle-string`
+        - [x] 重新排列字符串 `shuffle-string`
         - [ ] 按照频率将数组升序排序 `sort-array-by-increasing-frequency`
         - [ ] 能否连接形成数组 `check-array-formation-through-concatenation`
         - [ ] 卡车上的最大单元数 `maximum-units-on-a-truck`
