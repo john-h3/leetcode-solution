@@ -454,7 +454,7 @@
         - [ ] 能否连接形成数组 `check-array-formation-through-concatenation`
         - [ ] 卡车上的最大单元数 `maximum-units-on-a-truck`
     - [ ] 回溯算法 `backtracking`
-        - [ ] 二进制手表 `binary-watch`
+        - [x] 二进制手表 `binary-watch`
         - [ ] 比赛中的配对次数 `count-of-matches-in-tournament`
     - [ ] 设计 `design`
         - [ ] 最小栈 `min-stack`
