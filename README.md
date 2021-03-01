@@ -450,7 +450,7 @@
         - [ ] 去掉最低工资和最高工资后的工资平均值 `average-salary-excluding-the-minimum-and-maximum-salary`
         - [ ] 判断能否形成等差数列 `can-make-arithmetic-progression-from-sequence`
         - [x] 重新排列字符串 `shuffle-string`
-        - [ ] 按照频率将数组升序排序 `sort-array-by-increasing-frequency`
+        - [x] 按照频率将数组升序排序 `sort-array-by-increasing-frequency`
         - [ ] 能否连接形成数组 `check-array-formation-through-concatenation`
         - [ ] 卡车上的最大单元数 `maximum-units-on-a-truck`
     - [ ] 回溯算法 `backtracking`
