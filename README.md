@@ -455,7 +455,7 @@
         - [ ] 卡车上的最大单元数 `maximum-units-on-a-truck`
     - [ ] 回溯算法 `backtracking`
         - [x] 二进制手表 `binary-watch`
-        - [ ] 比赛中的配对次数 `count-of-matches-in-tournament`
+        - [x] 比赛中的配对次数 `count-of-matches-in-tournament`
     - [ ] 设计 `design`
         - [ ] 最小栈 `min-stack`
         - [ ] 用队列实现栈 `implement-stack-using-queues`
