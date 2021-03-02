@@ -463,7 +463,7 @@
         - [ ] 数据流中的第 K 大元素 `kth-largest-element-in-a-stream`
         - [ ] 设计哈希集合 `design-hashset`
         - [ ] 设计哈希映射 `design-hashmap`
-        - [ ] 设计停车系统 `design-parking-system`
+        - [x] 设计停车系统 `design-parking-system`
         - [ ] 设计有序流 `design-an-ordered-stream`
         - [ ] 用两个栈实现队列 `yong-liang-ge-zhan-shi-xian-dui-lie-lcof`
         - [ ] 包含min函数的栈 `bao-han-minhan-shu-de-zhan-lcof`
