@@ -467,5 +467,5 @@
         - [x] 设计有序流 `design-an-ordered-stream`
         - [x] 用两个栈实现队列 `yong-liang-ge-zhan-shi-xian-dui-lie-lcof`
         - [x] 包含min函数的栈 `bao-han-minhan-shu-de-zhan-lcof`
-        - [ ] 三合一 `three-in-one-lcci`
+        - [x] 三合一 `three-in-one-lcci`
         - [ ] 动物收容所 `animal-shelter-lcci`
