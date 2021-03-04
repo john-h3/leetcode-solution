@@ -469,3 +469,20 @@
         - [x] 包含min函数的栈 `bao-han-minhan-shu-de-zhan-lcof`
         - [x] 三合一 `three-in-one-lcci`
         - [ ] 动物收容所 `animal-shelter-lcci`
+    - [ ] 栈 `stack`
+        - [ ] 有效的括号 `valid-parentheses`
+        - [ ] 最小栈 `min-stack`
+        - [ ] 用队列实现栈 `implement-stack-using-queues`
+        - [ ] 用栈实现队列 `implement-queue-using-stacks`
+        - [ ] 下一个更大元素 I `next-greater-element-i`
+        - [ ] 棒球比赛 `baseball-game`
+        - [ ] 比较含退格的字符串 `backspace-string-compare`
+        - [ ] 删除最外层的括号 `remove-outermost-parentheses`
+        - [ ] 删除字符串中的所有相邻重复项 `remove-all-adjacent-duplicates-in-string`
+        - [ ] 用栈操作构建数组 `build-an-array-with-stack-operations`
+        - [ ] 整理字符串 `make-the-string-great`
+        - [ ] 文件夹操作日志搜集器 `crawler-log-folder`
+        - [ ] 用两个栈实现队列 `yong-liang-ge-zhan-shi-xian-dui-lie-lcof`
+        - [ ] 包含min函数的栈 `bao-han-minhan-shu-de-zhan-lcof`
+        - [ ] 栈的最小值 `min-stack-lcci`
+        - [ ] 化栈为队 `implement-queue-using-stacks-lcci`
