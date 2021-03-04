@@ -468,7 +468,7 @@
         - [x] 用两个栈实现队列 `yong-liang-ge-zhan-shi-xian-dui-lie-lcof`
         - [x] 包含min函数的栈 `bao-han-minhan-shu-de-zhan-lcof`
         - [x] 三合一 `three-in-one-lcci`
-        - [ ] 动物收容所 `animal-shelter-lcci`
+        - [x] 动物收容所 `animal-shelter-lcci`
     - [ ] 栈 `stack`
         - [ ] 有效的括号 `valid-parentheses`
         - [ ] 最小栈 `min-stack`
