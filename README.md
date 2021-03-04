@@ -479,7 +479,7 @@
         - [ ] 比较含退格的字符串 `backspace-string-compare`
         - [ ] 删除最外层的括号 `remove-outermost-parentheses`
         - [ ] 删除字符串中的所有相邻重复项 `remove-all-adjacent-duplicates-in-string`
-        - [ ] 用栈操作构建数组 `build-an-array-with-stack-operations`
+        - [x] 用栈操作构建数组 `build-an-array-with-stack-operations`
         - [ ] 整理字符串 `make-the-string-great`
         - [ ] 文件夹操作日志搜集器 `crawler-log-folder`
         - [ ] 用两个栈实现队列 `yong-liang-ge-zhan-shi-xian-dui-lie-lcof`
