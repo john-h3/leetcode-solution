@@ -481,7 +481,7 @@
         - [ ] 删除字符串中的所有相邻重复项 `remove-all-adjacent-duplicates-in-string`
         - [x] 用栈操作构建数组 `build-an-array-with-stack-operations`
         - [x] 整理字符串 `make-the-string-great`
-        - [ ] 文件夹操作日志搜集器 `crawler-log-folder`
+        - [x] 文件夹操作日志搜集器 `crawler-log-folder`
         - [ ] 用两个栈实现队列 `yong-liang-ge-zhan-shi-xian-dui-lie-lcof`
         - [ ] 包含min函数的栈 `bao-han-minhan-shu-de-zhan-lcof`
         - [ ] 栈的最小值 `min-stack-lcci`
