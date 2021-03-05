@@ -485,4 +485,4 @@
         - [ ] 用两个栈实现队列 `yong-liang-ge-zhan-shi-xian-dui-lie-lcof`
         - [ ] 包含min函数的栈 `bao-han-minhan-shu-de-zhan-lcof`
         - [x] 栈的最小值 `min-stack-lcci`
-        - [ ] 化栈为队 `implement-queue-using-stacks-lcci`
+        - [x] 化栈为队 `implement-queue-using-stacks-lcci`
