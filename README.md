@@ -489,7 +489,7 @@
     - [ ] 位运算 `bit-manipulation`
         - [ ] 只出现一次的数字 `single-number`
         - [ ] 多数元素 `majority-element`
-        - [ ] 颠倒二进制位 `reverse-bits`
+        - [x] 颠倒二进制位 `reverse-bits`
         - [ ] 位1的个数 `number-of-1-bits`
         - [ ] 2的幂 `power-of-two`
         - [ ] 丢失的数字 `missing-number`
