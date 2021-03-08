@@ -486,3 +486,34 @@
         - [ ] 包含min函数的栈 `bao-han-minhan-shu-de-zhan-lcof`
         - [x] 栈的最小值 `min-stack-lcci`
         - [x] 化栈为队 `implement-queue-using-stacks-lcci`
+    - [ ] 位运算 `bit-manipulation`
+        - [ ] 只出现一次的数字 `single-number`
+        - [ ] 多数元素 `majority-element`
+        - [ ] 颠倒二进制位 `reverse-bits`
+        - [ ] 位1的个数 `number-of-1-bits`
+        - [ ] 2的幂 `power-of-two`
+        - [ ] 丢失的数字 `missing-number`
+        - [ ] 4的幂 `power-of-four`
+        - [ ] 找不同 `find-the-difference`
+        - [ ] 二进制手表 `binary-watch`
+        - [ ] 数字转换为十六进制数 `convert-a-number-to-hexadecimal`
+        - [ ] 汉明距离 `hamming-distance`
+        - [ ] 数字的补数 `number-complement`
+        - [ ] 交替位二进制数 `binary-number-with-alternating-bits`
+        - [ ] 二进制表示中质数个计算置位 `prime-number-of-set-bits-in-binary-representation`
+        - [ ] 二进制链表转整数 `convert-binary-number-in-a-linked-list-to-integer`
+        - [ ] 将数字变成 0 的操作次数 `number-of-steps-to-reduce-a-number-to-zero`
+        - [ ] 根据数字二进制下 1 的数目排序 `sort-integers-by-the-number-of-1-bits`
+        - [ ] 数组异或操作 `xor-operation-in-an-array`
+        - [ ] 解码异或后的数组 `decode-xored-array`
+        - [ ] 二进制中1的个数 `er-jin-zhi-zhong-1de-ge-shu-lcof`
+        - [ ] 数组中出现次数超过一半的数字 `shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof`
+        - [ ] 插入 `insert-into-bits-lcci`
+        - [ ] 翻转数位 `reverse-bits-lcci`
+        - [ ] 整数转换 `convert-integer-lcci`
+        - [ ] 配对交换 `exchange-lcci`
+        - [ ] 最大数值 `maximum-lcci`
+        - [ ] 不用加号的加法 `add-without-plus-lcci`
+        - [ ] 消失的数字 `missing-number-lcci`
+        - [ ] 主要元素 `find-majority-element-lcci`
+    
