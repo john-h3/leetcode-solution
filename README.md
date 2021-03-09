@@ -493,7 +493,7 @@
         - [x] 位1的个数 `number-of-1-bits`
         - [ ] 2的幂 `power-of-two`
         - [ ] 丢失的数字 `missing-number`
-        - [ ] 4的幂 `power-of-four`
+        - [x] 4的幂 `power-of-four`
         - [ ] 找不同 `find-the-difference`
         - [ ] 二进制手表 `binary-watch`
         - [ ] 数字转换为十六进制数 `convert-a-number-to-hexadecimal`
