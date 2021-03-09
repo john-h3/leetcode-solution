@@ -498,7 +498,7 @@
         - [ ] 二进制手表 `binary-watch`
         - [x] 数字转换为十六进制数 `convert-a-number-to-hexadecimal`
         - [ ] 汉明距离 `hamming-distance`
-        - [ ] 数字的补数 `number-complement`
+        - [x] 数字的补数 `number-complement`
         - [ ] 交替位二进制数 `binary-number-with-alternating-bits`
         - [ ] 二进制表示中质数个计算置位 `prime-number-of-set-bits-in-binary-representation`
         - [ ] 二进制链表转整数 `convert-binary-number-in-a-linked-list-to-integer`
