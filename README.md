@@ -496,7 +496,7 @@
         - [x] 4的幂 `power-of-four`
         - [ ] 找不同 `find-the-difference`
         - [ ] 二进制手表 `binary-watch`
-        - [ ] 数字转换为十六进制数 `convert-a-number-to-hexadecimal`
+        - [x] 数字转换为十六进制数 `convert-a-number-to-hexadecimal`
         - [ ] 汉明距离 `hamming-distance`
         - [ ] 数字的补数 `number-complement`
         - [ ] 交替位二进制数 `binary-number-with-alternating-bits`
