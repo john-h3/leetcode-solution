@@ -501,7 +501,7 @@
         - [x] 数字的补数 `number-complement`
         - [x] 交替位二进制数 `binary-number-with-alternating-bits`
         - [x] 二进制表示中质数个计算置位 `prime-number-of-set-bits-in-binary-representation`
-        - [ ] 二进制链表转整数 `convert-binary-number-in-a-linked-list-to-integer`
+        - [x] 二进制链表转整数 `convert-binary-number-in-a-linked-list-to-integer`
         - [ ] 将数字变成 0 的操作次数 `number-of-steps-to-reduce-a-number-to-zero`
         - [ ] 根据数字二进制下 1 的数目排序 `sort-integers-by-the-number-of-1-bits`
         - [ ] 数组异或操作 `xor-operation-in-an-array`
