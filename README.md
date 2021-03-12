@@ -506,7 +506,7 @@
         - [ ] 根据数字二进制下 1 的数目排序 `sort-integers-by-the-number-of-1-bits`
         - [ ] 数组异或操作 `xor-operation-in-an-array`
         - [x] 解码异或后的数组 `decode-xored-array`
-        - [ ] 二进制中1的个数 `er-jin-zhi-zhong-1de-ge-shu-lcof`
+        - [x] 二进制中1的个数 `er-jin-zhi-zhong-1de-ge-shu-lcof`
         - [ ] 数组中出现次数超过一半的数字 `shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof`
         - [ ] 插入 `insert-into-bits-lcci`
         - [ ] 翻转数位 `reverse-bits-lcci`
