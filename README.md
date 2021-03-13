@@ -507,7 +507,7 @@
         - [ ] 数组异或操作 `xor-operation-in-an-array`
         - [x] 解码异或后的数组 `decode-xored-array`
         - [x] 二进制中1的个数 `er-jin-zhi-zhong-1de-ge-shu-lcof`
-        - [ ] 数组中出现次数超过一半的数字 `shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof`
+        - [x] 数组中出现次数超过一半的数字 `shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof`
         - [ ] 插入 `insert-into-bits-lcci`
         - [ ] 翻转数位 `reverse-bits-lcci`
         - [ ] 整数转换 `convert-integer-lcci`
