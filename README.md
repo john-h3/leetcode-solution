@@ -511,7 +511,7 @@
         - [x] 插入 `insert-into-bits-lcci`
         - [x] 翻转数位 `reverse-bits-lcci`
         - [x] 整数转换 `convert-integer-lcci`
-        - [ ] 配对交换 `exchange-lcci`
+        - [x] 配对交换 `exchange-lcci`
         - [ ] 最大数值 `maximum-lcci`
         - [ ] 不用加号的加法 `add-without-plus-lcci`
         - [ ] 消失的数字 `missing-number-lcci`
