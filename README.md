@@ -510,7 +510,7 @@
         - [x] 数组中出现次数超过一半的数字 `shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof`
         - [x] 插入 `insert-into-bits-lcci`
         - [x] 翻转数位 `reverse-bits-lcci`
-        - [ ] 整数转换 `convert-integer-lcci`
+        - [x] 整数转换 `convert-integer-lcci`
         - [ ] 配对交换 `exchange-lcci`
         - [ ] 最大数值 `maximum-lcci`
         - [ ] 不用加号的加法 `add-without-plus-lcci`
