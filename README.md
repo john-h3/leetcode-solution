@@ -516,4 +516,26 @@
         - [ ] 不用加号的加法 `add-without-plus-lcci`
         - [ ] 消失的数字 `missing-number-lcci`
         - [ ] 主要元素 `find-majority-element-lcci`
-    
+    - [ ] 图 `graph`
+        - [ ] 找到小镇的法官 `find-the-town-judge`
+    - [ ] 链表 `linked-list`
+        - [ ] 合并两个有序链表 `merge-two-sorted-lists`
+        - [ ] 删除排序链表中的重复元素 `remove-duplicates-from-sorted-list`
+        - [ ] 环形链表 `linked-list-cycle`
+        - [ ] 相交链表 `intersection-of-two-linked-lists`
+        - [ ] 移除链表元素 `remove-linked-list-elements`
+        - [ ] 反转链表 `reverse-linked-list`
+        - [ ] 回文链表 `palindrome-linked-list`
+        - [ ] 删除链表中的节点 `delete-node-in-a-linked-list`
+        - [ ] 链表的中间结点 `middle-of-the-linked-list`
+        - [ ] 二进制链表转整数 `convert-binary-number-in-a-linked-list-to-integer`
+        - [ ] 从尾到头打印链表 `cong-wei-dao-tou-da-yin-lian-biao-lcof`
+        - [ ] 删除链表的节点 `shan-chu-lian-biao-de-jie-dian-lcof`
+        - [ ] 链表中倒数第k个节点 `lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof`
+        - [ ] 反转链表 `fan-zhuan-lian-biao-lcof`
+        - [ ] 两个链表的第一个公共节点 `liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof`
+        - [ ] 移除重复节点 `remove-duplicate-node-lcci`
+        - [ ] 返回倒数第 k 个节点 `kth-node-from-end-of-list-lcci`
+        - [ ] 删除中间节点 `delete-middle-node-lcci`
+        - [ ] 回文链表 `palindrome-linked-list-lcci`
+        - [ ] 链表相交 `intersection-of-two-linked-lists-lcci`
