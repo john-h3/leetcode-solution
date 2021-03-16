@@ -516,8 +516,8 @@
         - [x] 不用加号的加法 `add-without-plus-lcci`
         - [ ] 消失的数字 `missing-number-lcci`
         - [ ] 主要元素 `find-majority-element-lcci`
-    - [ ] 图 `graph`
-        - [ ] 找到小镇的法官 `find-the-town-judge`
+    - [x] 图 `graph`
+        - [x] 找到小镇的法官 `find-the-town-judge`
     - [ ] 链表 `linked-list`
         - [ ] 合并两个有序链表 `merge-two-sorted-lists`
         - [ ] 删除排序链表中的重复元素 `remove-duplicates-from-sorted-list`
