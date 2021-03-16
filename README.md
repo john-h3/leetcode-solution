@@ -513,7 +513,7 @@
         - [x] 整数转换 `convert-integer-lcci`
         - [x] 配对交换 `exchange-lcci`
         - [ ] 最大数值 `maximum-lcci`
-        - [ ] 不用加号的加法 `add-without-plus-lcci`
+        - [x] 不用加号的加法 `add-without-plus-lcci`
         - [ ] 消失的数字 `missing-number-lcci`
         - [ ] 主要元素 `find-majority-element-lcci`
     - [ ] 图 `graph`
