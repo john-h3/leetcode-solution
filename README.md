@@ -519,7 +519,7 @@
     - [x] 图 `graph`
         - [x] 找到小镇的法官 `find-the-town-judge`
     - [ ] 链表 `linked-list`
-        - [ ] 合并两个有序链表 `merge-two-sorted-lists`
+        - [x] 合并两个有序链表 `merge-two-sorted-lists`
         - [ ] 删除排序链表中的重复元素 `remove-duplicates-from-sorted-list`
         - [ ] 环形链表 `linked-list-cycle`
         - [ ] 相交链表 `intersection-of-two-linked-lists`
