@@ -522,7 +522,7 @@
         - [x] 合并两个有序链表 `merge-two-sorted-lists`
         - [ ] 删除排序链表中的重复元素 `remove-duplicates-from-sorted-list`
         - [ ] 环形链表 `linked-list-cycle`
-        - [ ] 相交链表 `intersection-of-two-linked-lists`
+        - [x] 相交链表 `intersection-of-two-linked-lists`
         - [ ] 移除链表元素 `remove-linked-list-elements`
         - [ ] 反转链表 `reverse-linked-list`
         - [ ] 回文链表 `palindrome-linked-list`
