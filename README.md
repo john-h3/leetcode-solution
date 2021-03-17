@@ -523,7 +523,7 @@
         - [ ] 删除排序链表中的重复元素 `remove-duplicates-from-sorted-list`
         - [ ] 环形链表 `linked-list-cycle`
         - [x] 相交链表 `intersection-of-two-linked-lists`
-        - [ ] 移除链表元素 `remove-linked-list-elements`
+        - [x] 移除链表元素 `remove-linked-list-elements`
         - [ ] 反转链表 `reverse-linked-list`
         - [ ] 回文链表 `palindrome-linked-list`
         - [ ] 删除链表中的节点 `delete-node-in-a-linked-list`
