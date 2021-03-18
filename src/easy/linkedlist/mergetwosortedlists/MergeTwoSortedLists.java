@@ -1,4 +1,4 @@
-package easy.graph.mergetwosortedlists;
+package easy.linkedlist.mergetwosortedlists;
 
 /**
  * MergeTwoSortedLists

@@ -1,4 +1,4 @@
-package easy.graph.removelinkedlistelements;
+package easy.linkedlist.removelinkedlistelements;
 
 /**
  * RemoveLinkedListElements

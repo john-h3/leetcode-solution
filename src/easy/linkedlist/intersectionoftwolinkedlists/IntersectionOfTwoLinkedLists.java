@@ -1,4 +1,4 @@
-package easy.graph.intersectionoftwolinkedlists;
+package easy.linkedlist.intersectionoftwolinkedlists;
 
 /**
  * IntersectionOfTwoLinkedLists
