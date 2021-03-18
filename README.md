@@ -527,7 +527,7 @@
         - [x] 反转链表 `reverse-linked-list`
         - [ ] 回文链表 `palindrome-linked-list`
         - [ ] 删除链表中的节点 `delete-node-in-a-linked-list`
-        - [ ] 链表的中间结点 `middle-of-the-linked-list`
+        - [x] 链表的中间结点 `middle-of-the-linked-list`
         - [ ] 二进制链表转整数 `convert-binary-number-in-a-linked-list-to-integer`
         - [ ] 从尾到头打印链表 `cong-wei-dao-tou-da-yin-lian-biao-lcof`
         - [ ] 删除链表的节点 `shan-chu-lian-biao-de-jie-dian-lcof`
