@@ -524,7 +524,7 @@
         - [ ] 环形链表 `linked-list-cycle`
         - [x] 相交链表 `intersection-of-two-linked-lists`
         - [x] 移除链表元素 `remove-linked-list-elements`
-        - [ ] 反转链表 `reverse-linked-list`
+        - [x] 反转链表 `reverse-linked-list`
         - [ ] 回文链表 `palindrome-linked-list`
         - [ ] 删除链表中的节点 `delete-node-in-a-linked-list`
         - [ ] 链表的中间结点 `middle-of-the-linked-list`
