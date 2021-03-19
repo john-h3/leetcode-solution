@@ -532,7 +532,7 @@
         - [x] 从尾到头打印链表 `cong-wei-dao-tou-da-yin-lian-biao-lcof`
         - [x] 删除链表的节点 `shan-chu-lian-biao-de-jie-dian-lcof`
         - [ ] 链表中倒数第k个节点 `lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof`
-        - [ ] 反转链表 `fan-zhuan-lian-biao-lcof`
+        - [x] 反转链表 `fan-zhuan-lian-biao-lcof`
         - [ ] 两个链表的第一个公共节点 `liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof`
         - [ ] 移除重复节点 `remove-duplicate-node-lcci`
         - [ ] 返回倒数第 k 个节点 `kth-node-from-end-of-list-lcci`
