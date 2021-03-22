@@ -536,6 +536,6 @@
         - [x] 两个链表的第一个公共节点 `liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof`
         - [x] 移除重复节点 `remove-duplicate-node-lcci`
         - [ ] 返回倒数第 k 个节点 `kth-node-from-end-of-list-lcci`
-        - [ ] 删除中间节点 `delete-middle-node-lcci`
+        - [x] 删除中间节点 `delete-middle-node-lcci`
         - [ ] 回文链表 `palindrome-linked-list-lcci`
         - [ ] 链表相交 `intersection-of-two-linked-lists-lcci`
