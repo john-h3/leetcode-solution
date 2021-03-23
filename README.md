@@ -538,4 +538,4 @@
         - [ ] 返回倒数第 k 个节点 `kth-node-from-end-of-list-lcci`
         - [x] 删除中间节点 `delete-middle-node-lcci`
         - [x] 回文链表 `palindrome-linked-list-lcci`
-        - [ ] 链表相交 `intersection-of-two-linked-lists-lcci`
+        - [x] 链表相交 `intersection-of-two-linked-lists-lcci`
