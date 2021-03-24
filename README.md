@@ -539,3 +539,21 @@
         - [x] 删除中间节点 `delete-middle-node-lcci`
         - [x] 回文链表 `palindrome-linked-list-lcci`
         - [x] 链表相交 `intersection-of-two-linked-lists-lcci`
+    - [ ] 堆 `heap`
+        - [ ] 数据流中的第 K 大元素 `kth-largest-element-in-a-stream`
+        - [ ] 最后一块石头的重量 `last-stone-weight`
+        - [ ] 最小的k个数 `zui-xiao-de-kge-shu-lcof`
+    - [ ] 递归 `recursion`
+        - [ ] 二叉搜索树的范围和 `range-sum-of-bst`
+        - [ ] 二叉树的坡度 `binary-tree-tilt`
+        - [ ] 斐波那契数列 `fei-bo-na-qi-shu-lie-lcof`
+        - [ ] 青蛙跳台阶问题 `qing-wa-tiao-tai-jie-wen-ti-lcof`
+        - [ ] 二叉树的最大深度 `maximum-depth-of-binary-tree`
+        - [ ] 第 N 个泰波那契数 `n-th-tribonacci-number`
+        - [ ] 跳水板 `diving-board-lcci`
+        - [ ] 平衡二叉树 `balanced-binary-tree`
+        - [ ] BiNode `binode-lcci`
+        - [ ] 二叉搜索树节点最小距离 `minimum-distance-between-bst-nodes`
+        - [ ] 合并两个有序链表 `merge-two-sorted-lists`
+        - [ ] 递增顺序查找树 `increasing-order-search-tree`
+        - [ ] 汉诺塔问题 `hanota-lcci`
