@@ -542,7 +542,7 @@
     - [ ] 堆 `heap`
         - [ ] 数据流中的第 K 大元素 `kth-largest-element-in-a-stream`
         - [ ] 最后一块石头的重量 `last-stone-weight`
-        - [ ] 最小的k个数 `zui-xiao-de-kge-shu-lcof`
+        - [x] 最小的k个数 `zui-xiao-de-kge-shu-lcof`
     - [ ] 递归 `recursion`
         - [ ] 二叉搜索树的范围和 `range-sum-of-bst`
         - [ ] 二叉树的坡度 `binary-tree-tilt`
