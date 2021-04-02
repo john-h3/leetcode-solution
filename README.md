@@ -551,7 +551,7 @@
         - [ ] 二叉搜索树节点最小距离 `minimum-distance-between-bst-nodes`
         - [ ] 递增顺序查找树 `increasing-order-search-tree`
         - [ ] 二叉搜索树的范围和 `range-sum-of-bst`
-        - [ ] 第 N 个泰波那契数 `n-th-tribonacci-number`
+        - [x] 第 N 个泰波那契数 `n-th-tribonacci-number`
         - [ ] 斐波那契数列 `fei-bo-na-qi-shu-lie-lcof`
         - [ ] 青蛙跳台阶问题 `qing-wa-tiao-tai-jie-wen-ti-lcof`
         - [ ] 汉诺塔问题 `hanota-lcci`
