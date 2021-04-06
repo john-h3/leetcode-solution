@@ -553,7 +553,7 @@
         - [ ] 二叉搜索树的范围和 `range-sum-of-bst`
         - [x] 第 N 个泰波那契数 `n-th-tribonacci-number`
         - [x] 斐波那契数列 `fei-bo-na-qi-shu-lie-lcof`
-        - [ ] 青蛙跳台阶问题 `qing-wa-tiao-tai-jie-wen-ti-lcof`
+        - [x] 青蛙跳台阶问题 `qing-wa-tiao-tai-jie-wen-ti-lcof`
         - [ ] 汉诺塔问题 `hanota-lcci`
         - [ ] 跳水板 `diving-board-lcci`
         - [ ] BiNode `binode-lcci`
