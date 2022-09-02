@@ -1,4 +1,4 @@
-package daily._20220823;
+package daily._202208._20220823;
 
 import java.util.Arrays;
 import java.util.Random;

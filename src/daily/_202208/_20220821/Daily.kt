@@ -1,4 +1,4 @@
-package daily._20220821
+package daily._202208._20220821
 
 class Daily {
     class Solution {
@@ -9,7 +9,7 @@ class Daily {
             for (i in sentence.indices) {
                 if (sentence[i] == ' ') {
                     matches = 0
-                    c ++
+                    c++
                     prefix = true
                     continue
                 }

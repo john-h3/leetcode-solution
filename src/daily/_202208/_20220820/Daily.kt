@@ -1,4 +1,4 @@
-package daily._20220820
+package daily._202208._20220820
 
 class TreeNode(var `val`: Int) {
     var left: TreeNode? = null
@@ -11,7 +11,7 @@ class Solution {
         return recursiveConstruct(nums, 0, nums.size)
     }
 
-    fun recursiveConstruct(nums: IntArray, start: Int, end: Int) : TreeNode {
+    fun recursiveConstruct(nums: IntArray, start: Int, end: Int): TreeNode {
         var max = nums[start]
         var maxIndex = start
         for (i in start until end) {

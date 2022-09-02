@@ -1,4 +1,4 @@
-package daily._20220824
+package daily._202208._20220824
 
 class Solution {
     fun canBeEqual(target: IntArray, arr: IntArray): Boolean {
