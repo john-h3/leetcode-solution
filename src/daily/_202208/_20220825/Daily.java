@@ -1,4 +1,4 @@
-package daily._20220825;
+package daily._202208._20220825;
 
 import java.util.Arrays;
 import java.util.List;
